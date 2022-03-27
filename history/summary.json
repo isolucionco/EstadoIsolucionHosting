@@ -5,53 +5,59 @@
     "icon": "https://favicons.githubusercontent.com/adiquim.isolucion.co",
     "slug": "adiquim-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.32%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "95.32%",
+    "uptimeYear": "95.32%",
     "time": 339,
     "timeDay": 320,
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 103
+    }
   },
   {
     "name": "AdiquimTest.isolucion.co",
     "url": "https://AdiquimTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/adiquimtest.isolucion.co",
     "slug": "adiquim-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.35%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "95.35%",
+    "uptimeMonth": "95.35%",
+    "uptimeYear": "95.35%",
     "time": 334,
     "timeDay": 336,
     "timeWeek": 334,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 103
+    }
   },
   {
     "name": "Adn.isolucion.co",
     "url": "https://Adn.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/adn.isolucion.co",
     "slug": "adn-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.37%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "95.37%",
     "time": 330,
     "timeDay": 319,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 102
+    }
   },
   {
     "name": "AgrocomercialCagir.isolucion.co",
@@ -59,53 +65,59 @@
     "icon": "https://favicons.githubusercontent.com/agrocomercialcagir.isolucion.co",
     "slug": "agrocomercial-cagir-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.40%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
     "time": 346,
     "timeDay": 340,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 102
+    }
   },
   {
     "name": "AIRTEMP.isolucion.co",
     "url": "https://AIRTEMP.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/airtemp.isolucion.co",
     "slug": "airtemp-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.42%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "95.42%",
+    "uptimeMonth": "95.42%",
+    "uptimeYear": "95.42%",
     "time": 352,
     "timeDay": 348,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 101
+    }
   },
   {
     "name": "ALBATEQ.isolucion.co",
     "url": "https://ALBATEQ.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/albateq.isolucion.co",
     "slug": "albateq-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.44%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "95.44%",
+    "uptimeYear": "95.44%",
     "time": 346,
     "timeDay": 366,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 101
+    }
   },
   {
     "name": "AlcaldiaBarranquilla.isolucion.co",
@@ -113,89 +125,99 @@
     "icon": "https://favicons.githubusercontent.com/alcaldiabarranquilla.isolucion.co",
     "slug": "alcaldia-barranquilla-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.47%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "95.47%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "95.47%",
     "time": 320,
     "timeDay": 316,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 100
+    }
   },
   {
     "name": "AlcaldiaBarranquillaTest.isolucion.co",
     "url": "https://AlcaldiaBarranquillaTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alcaldiabarranquillatest.isolucion.co",
     "slug": "alcaldia-barranquilla-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "95.49%",
     "time": 335,
     "timeDay": 341,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 100
+    }
   },
   {
     "name": "AlcaldiaDeManizales.isolucion.co",
     "url": "https://AlcaldiaDeManizales.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alcaldiademanizales.isolucion.co",
     "slug": "alcaldia-de-manizales-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.51%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "95.51%",
+    "uptimeYear": "95.51%",
     "time": 358,
     "timeDay": 341,
     "timeWeek": 358,
     "timeMonth": 358,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 99
+    }
   },
   {
     "name": "AlcaldiaTocancipa.Isolucion.co",
     "url": "https://AlcaldiaTocancipa.Isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alcaldiatocancipa.isolucion.co",
     "slug": "alcaldia-tocancipa-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.54%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
     "time": 318,
     "timeDay": 322,
     "timeWeek": 318,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 98
+    }
   },
   {
     "name": "AlcCajica.isolucion.co",
     "url": "https://AlcCajica.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alccajica.isolucion.co",
     "slug": "alc-cajica-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.56%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 329,
     "timeDay": 337,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 98
+    }
   },
   {
     "name": "ALFANET.isolucion.co",
@@ -203,89 +225,99 @@
     "icon": "https://favicons.githubusercontent.com/alfanet.isolucion.co",
     "slug": "alfanet-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.58%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "95.58%",
     "time": 323,
     "timeDay": 317,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 97
+    }
   },
   {
     "name": "ALFANETTest.isolucion.co",
     "url": "https://ALFANETTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alfanettest.isolucion.co",
     "slug": "alfanet-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.61%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "95.61%",
+    "uptimeYear": "95.61%",
     "time": 340,
     "timeDay": 326,
     "timeWeek": 340,
     "timeMonth": 340,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 97
+    }
   },
   {
     "name": "alianzatemporales.isolucion.co",
     "url": "https://alianzatemporales.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alianzatemporales.isolucion.co",
     "slug": "alianzatemporales-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.63%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "95.63%",
     "time": 269,
     "timeDay": 279,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 96
+    }
   },
   {
     "name": "alianzatemporalesTest.isolucion.co",
     "url": "https://alianzatemporalesTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alianzatemporalestest.isolucion.co",
     "slug": "alianzatemporales-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.65%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
     "time": 323,
     "timeDay": 317,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 96
+    }
   },
   {
     "name": "Alico.isolucion.co",
     "url": "https://Alico.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/alico.isolucion.co",
     "slug": "alico-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.68%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "95.68%",
+    "uptimeYear": "95.68%",
     "time": 349,
     "timeDay": 329,
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 95
+    }
   },
   {
     "name": "Alura.isolucion.co",
@@ -293,107 +325,119 @@
     "icon": "https://favicons.githubusercontent.com/alura.isolucion.co",
     "slug": "alura-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.70%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "95.70%",
+    "uptimeYear": "95.70%",
     "time": 343,
     "timeDay": 319,
     "timeWeek": 343,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 95
+    }
   },
   {
     "name": "AluraTest.isolucion.co",
     "url": "https://AluraTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/aluratest.isolucion.co",
     "slug": "alura-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.73%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
     "time": 373,
     "timeDay": 342,
     "timeWeek": 373,
     "timeMonth": 373,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 94
+    }
   },
   {
     "name": "AMVSA.isolucion.co",
     "url": "https://AMVSA.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/amvsa.isolucion.co",
     "slug": "amvsa-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.75%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "95.75%",
     "time": 334,
     "timeDay": 314,
     "timeWeek": 334,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 94
+    }
   },
   {
     "name": "AMVSATest.isolucion.co",
     "url": "https://AMVSATest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/amvsatest.isolucion.co",
     "slug": "amvsa-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.77%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "95.77%",
     "time": 350,
     "timeDay": 320,
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 93
+    }
   },
   {
     "name": "angiografia.isolucion.co",
     "url": "https://angiografia.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/angiografia.isolucion.co",
     "slug": "angiografia-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.80%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.80%",
     "time": 275,
     "timeDay": 267,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 93
+    }
   },
   {
     "name": "angiografiaTest.isolucion.co",
     "url": "https://angiografiaTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/angiografiatest.isolucion.co",
     "slug": "angiografia-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.82%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "95.82%",
+    "uptimeYear": "95.82%",
     "time": 345,
     "timeDay": 333,
     "timeWeek": 345,
     "timeMonth": 345,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 92
+    }
   },
   {
     "name": "AON.isolucion.co",
@@ -401,35 +445,39 @@
     "icon": "https://favicons.githubusercontent.com/aon.isolucion.co",
     "slug": "aon-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.85%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "95.85%",
     "time": 327,
     "timeDay": 315,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 92
+    }
   },
   {
     "name": "Asobancaria.isolucion.co",
     "url": "https://Asobancaria.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/asobancaria.isolucion.co",
     "slug": "asobancaria-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.87%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "95.87%",
     "time": 1085,
     "timeDay": 1035,
     "timeWeek": 1085,
     "timeMonth": 1085,
     "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 91
+    }
   },
   {
     "name": "atinaenergy.isolucion.co",
@@ -437,35 +485,39 @@
     "icon": "https://favicons.githubusercontent.com/atinaenergy.isolucion.co",
     "slug": "atinaenergy-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.89%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "95.89%",
+    "uptimeYear": "95.89%",
     "time": 263,
     "timeDay": 244,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 91
+    }
   },
   {
     "name": "atinaenergyTest.isolucion.co",
     "url": "https://atinaenergyTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/atinaenergytest.isolucion.co",
     "slug": "atinaenergy-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.92%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "95.92%",
     "time": 324,
     "timeDay": 319,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 90
+    }
   },
   {
     "name": "AUDIFARMA.isolucion.co",
@@ -473,35 +525,39 @@
     "icon": "https://favicons.githubusercontent.com/audifarma.isolucion.co",
     "slug": "audifarma-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.94%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "95.94%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "95.94%",
     "time": 323,
     "timeDay": 316,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 90
+    }
   },
   {
     "name": "AUDIFARMATest.isolucion.co",
     "url": "https://AUDIFARMATest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/audifarmatest.isolucion.co",
     "slug": "audifarma-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.96%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "95.96%",
     "time": 327,
     "timeDay": 313,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 89
+    }
   },
   {
     "name": "BAGGRIT.isolucion.co",
@@ -509,17 +565,19 @@
     "icon": "https://favicons.githubusercontent.com/baggrit.isolucion.co",
     "slug": "baggrit-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.99%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "95.99%",
     "time": 328,
     "timeDay": 334,
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 89
+    }
   },
   {
     "name": "BAINCOL.isolucion.co",
@@ -527,53 +585,59 @@
     "icon": "https://favicons.githubusercontent.com/baincol.isolucion.co",
     "slug": "baincol-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.01%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "96.01%",
     "time": 322,
     "timeDay": 314,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 88
+    }
   },
   {
     "name": "BAINCOLTest.isolucion.co",
     "url": "https://BAINCOLTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/baincoltest.isolucion.co",
     "slug": "baincol-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.03%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "96.03%",
     "time": 335,
     "timeDay": 331,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 88
+    }
   },
   {
     "name": "BASC.isolucion.co",
     "url": "https://BASC.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/basc.isolucion.co",
     "slug": "basc-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.06%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "96.06%",
     "time": 313,
     "timeDay": 311,
     "timeWeek": 313,
     "timeMonth": 313,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 87
+    }
   },
   {
     "name": "bgcol.isolucion.co",
@@ -581,197 +645,219 @@
     "icon": "https://favicons.githubusercontent.com/bgcol.isolucion.co",
     "slug": "bgcol-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.08%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
     "time": 264,
     "timeDay": 264,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 86
+    }
   },
   {
     "name": "bgcolTest.isolucion.co",
     "url": "https://bgcolTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/bgcoltest.isolucion.co",
     "slug": "bgcol-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.11%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "96.11%",
     "time": 331,
     "timeDay": 330,
     "timeWeek": 331,
     "timeMonth": 331,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 86
+    }
   },
   {
     "name": "Bimbo.isolucion.co",
     "url": "https://Bimbo.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/bimbo.isolucion.co",
     "slug": "bimbo-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.13%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "96.13%",
     "time": 352,
     "timeDay": 351,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 85
+    }
   },
   {
     "name": "Biotronitech.isolucion.co",
     "url": "https://Biotronitech.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/biotronitech.isolucion.co",
     "slug": "biotronitech-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.15%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "96.15%",
     "time": 337,
     "timeDay": 352,
     "timeWeek": 337,
     "timeMonth": 337,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 85
+    }
   },
   {
     "name": "BiotronitechTest.isolucion.co",
     "url": "https://BiotronitechTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/biotronitechtest.isolucion.co",
     "slug": "biotronitech-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.18%",
+    "uptimeDay": "94.14%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "96.18%",
     "time": 330,
     "timeDay": 333,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 84
+    }
   },
   {
     "name": "Blaskov.Isolucion.co",
     "url": "https://Blaskov.Isolucion.co",
     "icon": "https://favicons.githubusercontent.com/blaskov.isolucion.co",
     "slug": "blaskov-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.20%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "96.20%",
     "time": 315,
     "timeDay": 320,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 84
+    }
   },
   {
     "name": "bmiseguros.isolucion.co",
     "url": "https://bmiseguros.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/bmiseguros.isolucion.co",
     "slug": "bmiseguros-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.22%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "96.22%",
     "time": 265,
     "timeDay": 278,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 83
+    }
   },
   {
     "name": "bonsetlatinamerica.isolucion.co",
     "url": "https://bonsetlatinamerica.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/bonsetlatinamerica.isolucion.co",
     "slug": "bonsetlatinamerica-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.25%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "96.25%",
     "time": 255,
     "timeDay": 253,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 83
+    }
   },
   {
     "name": "bonsetlatinamericaTest.isolucion.co",
     "url": "https://bonsetlatinamericaTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/bonsetlatinamericatest.isolucion.co",
     "slug": "bonsetlatinamerica-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.27%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "96.27%",
     "time": 323,
     "timeDay": 326,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 82
+    }
   },
   {
     "name": "BRASERV.isolucion.co",
     "url": "https://BRASERV.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/braserv.isolucion.co",
     "slug": "braserv-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "96.29%",
     "time": 325,
     "timeDay": 310,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 82
+    }
   },
   {
     "name": "BRASERVTest.isolucion.co",
     "url": "https://BRASERVTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/braservtest.isolucion.co",
     "slug": "braserv-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.32%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "96.32%",
+    "uptimeYear": "96.32%",
     "time": 328,
     "timeDay": 324,
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 81
+    }
   },
   {
     "name": "BUGORG.isolucion.co",
@@ -779,35 +865,39 @@
     "icon": "https://favicons.githubusercontent.com/bugorg.isolucion.co",
     "slug": "bugorg-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.34%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "96.34%",
     "time": 315,
     "timeDay": 302,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 81
+    }
   },
   {
     "name": "BUGORGTest.isolucion.co",
     "url": "https://BUGORGTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/bugorgtest.isolucion.co",
     "slug": "bugorg-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.37%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "96.37%",
     "time": 325,
     "timeDay": 330,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 80
+    }
   },
   {
     "name": "Calima.isolucion.co",
@@ -815,485 +905,539 @@
     "icon": "https://favicons.githubusercontent.com/calima.isolucion.co",
     "slug": "calima-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.39%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
     "time": 317,
     "timeDay": 307,
     "timeWeek": 317,
     "timeMonth": 317,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 80
+    }
   },
   {
     "name": "CalimaTest.isolucion.co",
     "url": "https://CalimaTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/calimatest.isolucion.co",
     "slug": "calima-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
     "time": 326,
     "timeDay": 327,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 79
+    }
   },
   {
     "name": "capacitacion.isolucion.co",
     "url": "https://capacitacion.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/capacitacion.isolucion.co",
     "slug": "capacitacion-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.44%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "96.44%",
     "time": 333,
     "timeDay": 255,
     "timeWeek": 333,
     "timeMonth": 333,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 79
+    }
   },
   {
     "name": "Carex.isolucion.co",
     "url": "https://Carex.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/carex.isolucion.co",
     "slug": "carex-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.46%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "96.46%",
     "time": 335,
     "timeDay": 329,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 78
+    }
   },
   {
     "name": "CarexTest.isolucion.co",
     "url": "https://CarexTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/carextest.isolucion.co",
     "slug": "carex-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.49%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "96.49%",
     "time": 328,
     "timeDay": 324,
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 78
+    }
   },
   {
     "name": "Cartama.isolucion.co",
     "url": "https://Cartama.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cartama.isolucion.co",
     "slug": "cartama-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.51%",
     "time": 323,
     "timeDay": 319,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 77
+    }
   },
   {
     "name": "CartamaTest.isolucion.co",
     "url": "https://CartamaTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cartamatest.isolucion.co",
     "slug": "cartama-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.53%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
     "time": 327,
     "timeDay": 321,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 77
+    }
   },
   {
     "name": "CelestinFreinet.isolucion.co",
     "url": "https://CelestinFreinet.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/celestinfreinet.isolucion.co",
     "slug": "celestin-freinet-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.56%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.56%",
     "time": 327,
     "timeDay": 340,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 76
+    }
   },
   {
     "name": "CentralCervecera.isolucion.co",
     "url": "https://CentralCervecera.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/centralcervecera.isolucion.co",
     "slug": "central-cervecera-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.58%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.58%",
     "time": 1157,
     "timeDay": 1238,
     "timeWeek": 1157,
     "timeMonth": 1157,
     "timeYear": 1157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 75
+    }
   },
   {
     "name": "CentralCerveceraTest.isolucion.co",
     "url": "https://CentralCerveceraTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/centralcerveceratest.isolucion.co",
     "slug": "central-cervecera-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.60%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "96.60%",
     "time": 785,
     "timeDay": 692,
     "timeWeek": 785,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 75
+    }
   },
   {
     "name": "centromayorcc.isolucion.co",
     "url": "https://centromayorcc.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/centromayorcc.isolucion.co",
     "slug": "centromayorcc-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.63%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "96.63%",
     "time": 268,
     "timeDay": 254,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 74
+    }
   },
   {
     "name": "Cerescos.isolucion.co",
     "url": "https://Cerescos.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cerescos.isolucion.co",
     "slug": "cerescos-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.65%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "96.65%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "96.65%",
     "time": 338,
     "timeDay": 360,
     "timeWeek": 338,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 74
+    }
   },
   {
     "name": "Cesmag.isolucion.co",
     "url": "https://Cesmag.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cesmag.isolucion.co",
     "slug": "cesmag-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.67%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "96.67%",
+    "uptimeYear": "96.67%",
     "time": 334,
     "timeDay": 344,
     "timeWeek": 334,
     "timeMonth": 334,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 73
+    }
   },
   {
     "name": "CIFOODCOLOMBIA.isolucion.co",
     "url": "https://CIFOODCOLOMBIA.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cifoodcolombia.isolucion.co",
     "slug": "cifoodcolombia-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.70%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "96.70%",
     "time": 322,
     "timeDay": 317,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 73
+    }
   },
   {
     "name": "clcgas.isolucion.co",
     "url": "https://clcgas.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/clcgas.isolucion.co",
     "slug": "clcgas-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.72%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "96.72%",
     "time": 1114,
     "timeDay": 1098,
     "timeWeek": 1114,
     "timeMonth": 1114,
     "timeYear": 1114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 72
+    }
   },
   {
     "name": "COBELEN.isolucion.co",
     "url": "https://COBELEN.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cobelen.isolucion.co",
     "slug": "cobelen-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.74%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "96.74%",
     "time": 331,
     "timeDay": 323,
     "timeWeek": 331,
     "timeMonth": 331,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 72
+    }
   },
   {
     "name": "COCESNA.isolucion.co",
     "url": "https://COCESNA.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cocesna.isolucion.co",
     "slug": "cocesna-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.77%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "96.77%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 71
+    }
   },
   {
     "name": "COCESNATest.isolucion.co",
     "url": "https://COCESNATest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/cocesnatest.isolucion.co",
     "slug": "cocesna-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.79%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "96.79%",
     "time": 1298,
     "timeDay": 1273,
     "timeWeek": 1298,
     "timeMonth": 1298,
     "timeYear": 1298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 71
+    }
   },
   {
     "name": "colegiobennett.isolucion.co",
     "url": "https://colegiobennett.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/colegiobennett.isolucion.co",
     "slug": "colegiobennett-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 254,
     "timeDay": 252,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 70
+    }
   },
   {
     "name": "Colegiojesusmaria.isolucion.co",
     "url": "https://Colegiojesusmaria.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/colegiojesusmaria.isolucion.co",
     "slug": "colegiojesusmaria-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
     "time": 326,
     "timeDay": 328,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 70
+    }
   },
   {
     "name": "Colegionuevagranada.isolucion.co",
     "url": "https://Colegionuevagranada.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/colegionuevagranada.isolucion.co",
     "slug": "colegionuevagranada-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.86%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
     "time": 319,
     "timeDay": 321,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 69
+    }
   },
   {
     "name": "collectcenter.isolucion.co",
     "url": "https://collectcenter.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/collectcenter.isolucion.co",
     "slug": "collectcenter-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.89%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "96.89%",
     "time": 301,
     "timeDay": 278,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 69
+    }
   },
   {
     "name": "collectcenterTest.isolucion.co",
     "url": "https://collectcenterTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/collectcentertest.isolucion.co",
     "slug": "collectcenter-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 329,
     "timeDay": 332,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 68
+    }
   },
   {
     "name": "Combarranquilla.isolucion.co",
     "url": "https://Combarranquilla.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/combarranquilla.isolucion.co",
     "slug": "combarranquilla-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.93%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
     "time": 327,
     "timeDay": 329,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 68
+    }
   },
   {
     "name": "ComercialDemo.isolucion.co",
     "url": "https://ComercialDemo.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/comercialdemo.isolucion.co",
     "slug": "comercial-demo-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
     "time": 318,
     "timeDay": 319,
     "timeWeek": 318,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 67
+    }
   },
   {
     "name": "Comercializadora3c.isolucion.co",
     "url": "https://Comercializadora3c.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/comercializadora3c.isolucion.co",
     "slug": "comercializadora3c-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.98%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 320,
     "timeDay": 317,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 67
+    }
   },
   {
     "name": "ComfamiliarRisaralda.isolucion.co",
     "url": "https://ComfamiliarRisaralda.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/comfamiliarrisaralda.isolucion.co",
     "slug": "comfamiliar-risaralda-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 444,
     "timeDay": 449,
     "timeWeek": 444,
     "timeMonth": 444,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 66
+    }
   },
   {
     "name": "Comfandi.isolucion.co",
@@ -1301,17 +1445,19 @@
     "icon": "https://favicons.githubusercontent.com/comfandi.isolucion.co",
     "slug": "comfandi-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.03%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
     "time": 430,
     "timeDay": 415,
     "timeWeek": 430,
     "timeMonth": 430,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 66
+    }
   },
   {
     "name": "Consuerte.isolucion.co",
@@ -1319,17 +1465,19 @@
     "icon": "https://favicons.githubusercontent.com/consuerte.isolucion.co",
     "slug": "consuerte-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.05%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "97.05%",
     "time": 346,
     "timeDay": 355,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 65
+    }
   },
   {
     "name": "Contactar.isolucion.co",
@@ -1337,17 +1485,19 @@
     "icon": "https://favicons.githubusercontent.com/contactar.isolucion.co",
     "slug": "contactar-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.08%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
     "time": 1191,
     "timeDay": 1197,
     "timeWeek": 1191,
     "timeMonth": 1191,
     "timeYear": 1191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 65
+    }
   },
   {
     "name": "COOPEDAC.isolucion.co",
@@ -1355,17 +1505,19 @@
     "icon": "https://favicons.githubusercontent.com/coopedac.isolucion.co",
     "slug": "coopedac-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.10%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "97.10%",
     "time": 329,
     "timeDay": 325,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 64
+    }
   },
   {
     "name": "COOPEDACTest.isolucion.co",
@@ -1373,17 +1525,19 @@
     "icon": "https://favicons.githubusercontent.com/coopedactest.isolucion.co",
     "slug": "coopedac-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.12%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "97.12%",
     "time": 327,
     "timeDay": 321,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 63
+    }
   },
   {
     "name": "coopminutodedios.isolucion.co",
@@ -1391,17 +1545,19 @@
     "icon": "https://favicons.githubusercontent.com/coopminutodedios.isolucion.co",
     "slug": "coopminutodedios-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.15%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
     "time": 269,
     "timeDay": 272,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 63
+    }
   },
   {
     "name": "Cooptenjo.isolucion.co",
@@ -1409,17 +1565,19 @@
     "icon": "https://favicons.githubusercontent.com/cooptenjo.isolucion.co",
     "slug": "cooptenjo-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.17%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
     "time": 326,
     "timeDay": 329,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 62
+    }
   },
   {
     "name": "CooptenjoTest.isolucion.co",
@@ -1427,17 +1585,19 @@
     "icon": "https://favicons.githubusercontent.com/cooptenjotest.isolucion.co",
     "slug": "cooptenjo-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.19%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 330,
     "timeDay": 334,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 62
+    }
   },
   {
     "name": "Coordinadora.isolucion.co",
@@ -1445,17 +1605,19 @@
     "icon": "https://favicons.githubusercontent.com/coordinadora.isolucion.co",
     "slug": "coordinadora-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.22%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
     "time": 315,
     "timeDay": 320,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 61
+    }
   },
   {
     "name": "CorpAmericana.isolucion.co",
@@ -1463,17 +1625,19 @@
     "icon": "https://favicons.githubusercontent.com/corpamericana.isolucion.co",
     "slug": "corp-americana-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.24%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "97.24%",
     "time": 327,
     "timeDay": 316,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 61
+    }
   },
   {
     "name": "cruzrojaantioquia.isolucion.co",
@@ -1481,17 +1645,19 @@
     "icon": "https://favicons.githubusercontent.com/cruzrojaantioquia.isolucion.co",
     "slug": "cruzrojaantioquia-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.27%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
     "time": 807,
     "timeDay": 768,
     "timeWeek": 807,
     "timeMonth": 807,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 60
+    }
   },
   {
     "name": "cruzrojaantioquiaTest.isolucion.co",
@@ -1499,17 +1665,19 @@
     "icon": "https://favicons.githubusercontent.com/cruzrojaantioquiatest.isolucion.co",
     "slug": "cruzrojaantioquia-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.29%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
     "time": 523,
     "timeDay": 510,
     "timeWeek": 523,
     "timeMonth": 523,
     "timeYear": 523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 60
+    }
   },
   {
     "name": "CYPDELR.isolucion.co",
@@ -1517,17 +1685,19 @@
     "icon": "https://favicons.githubusercontent.com/cypdelr.isolucion.co",
     "slug": "cypdelr-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.31%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
     "time": 336,
     "timeDay": 341,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 59
+    }
   },
   {
     "name": "dane.isolucion.co",
@@ -1535,17 +1705,19 @@
     "icon": "https://favicons.githubusercontent.com/dane.isolucion.co",
     "slug": "dane-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.34%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 448,
     "timeDay": 428,
     "timeWeek": 448,
     "timeMonth": 448,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 59
+    }
   },
   {
     "name": "danetest.isolucion.co",
@@ -1553,17 +1725,19 @@
     "icon": "https://favicons.githubusercontent.com/danetest.isolucion.co",
     "slug": "danetest-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.36%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
     "time": 459,
     "timeDay": 377,
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 58
+    }
   },
   {
     "name": "deliveranceship.isolucion.co",
@@ -1571,17 +1745,19 @@
     "icon": "https://favicons.githubusercontent.com/deliveranceship.isolucion.co",
     "slug": "deliveranceship-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.38%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
     "time": 260,
     "timeDay": 254,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 58
+    }
   },
   {
     "name": "deliveranceshipTest.isolucion.co",
@@ -1589,17 +1765,19 @@
     "icon": "https://favicons.githubusercontent.com/deliveranceshiptest.isolucion.co",
     "slug": "deliveranceship-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.41%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.41%",
     "time": 339,
     "timeDay": 329,
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 57
+    }
   },
   {
     "name": "DemoComercial.isolucion.co",
@@ -1618,7 +1796,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2022-03-27": 159,
+      "2022-03-27": 263,
       "2022-03-26": 1440,
       "2022-03-25": 503
     }
@@ -1629,17 +1807,19 @@
     "icon": "https://favicons.githubusercontent.com/demosarlaft.isolucion.co",
     "slug": "demo-sarlaft-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.45%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
     "time": 329,
     "timeDay": 324,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 56
+    }
   },
   {
     "name": "Drypers.isolucion.co",
@@ -1647,17 +1827,19 @@
     "icon": "https://favicons.githubusercontent.com/drypers.isolucion.co",
     "slug": "drypers-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.48%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
     "time": 323,
     "timeDay": 320,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 56
+    }
   },
   {
     "name": "educacionfuturo.isolucion.co",
@@ -1665,17 +1847,19 @@
     "icon": "https://favicons.githubusercontent.com/educacionfuturo.isolucion.co",
     "slug": "educacionfuturo-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.50%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "97.50%",
+    "uptimeYear": "97.50%",
     "time": 259,
     "timeDay": 263,
     "timeWeek": 259,
     "timeMonth": 259,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 55
+    }
   },
   {
     "name": "ElectroquimicaWest.isolucion.co",
@@ -1683,17 +1867,19 @@
     "icon": "https://favicons.githubusercontent.com/electroquimicawest.isolucion.co",
     "slug": "electroquimica-west-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.52%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
     "time": 330,
     "timeDay": 322,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 55
+    }
   },
   {
     "name": "ElRancherito.isolucion.co",
@@ -1701,17 +1887,19 @@
     "icon": "https://favicons.githubusercontent.com/elrancherito.isolucion.co",
     "slug": "el-rancherito-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.55%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "97.55%",
     "time": 324,
     "timeDay": 317,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 54
+    }
   },
   {
     "name": "EmpaquetadosElTrece.isolucion.co",
@@ -1737,17 +1925,19 @@
     "icon": "https://favicons.githubusercontent.com/empaquetadoseltrecetest.isolucion.co",
     "slug": "empaquetados-el-trece-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.58%",
+    "uptimeDay": "96.29%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "97.58%",
+    "uptimeYear": "97.58%",
     "time": 346,
     "timeDay": 336,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 53
+    }
   },
   {
     "name": "Eterna.isolucion.co",
@@ -1755,17 +1945,19 @@
     "icon": "https://favicons.githubusercontent.com/eterna.isolucion.co",
     "slug": "eterna-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.60%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 53
+    }
   },
   {
     "name": "EternaTest.isolucion.co",
@@ -1773,17 +1965,19 @@
     "icon": "https://favicons.githubusercontent.com/eternatest.isolucion.co",
     "slug": "eterna-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.62%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
     "time": 332,
     "timeDay": 335,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 52
+    }
   },
   {
     "name": "Fenalce.isolucion.co",
@@ -1791,17 +1985,19 @@
     "icon": "https://favicons.githubusercontent.com/fenalce.isolucion.co",
     "slug": "fenalce-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.65%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 330,
     "timeDay": 348,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 52
+    }
   },
   {
     "name": "Fiducentral.isolucion.co",
@@ -1809,17 +2005,19 @@
     "icon": "https://favicons.githubusercontent.com/fiducentral.isolucion.co",
     "slug": "fiducentral-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.67%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 327,
     "timeDay": 336,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 51
+    }
   },
   {
     "name": "FlagSoluciones.isolucion.co",
@@ -1827,17 +2025,19 @@
     "icon": "https://favicons.githubusercontent.com/flagsoluciones.isolucion.co",
     "slug": "flag-soluciones-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.70%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 325,
     "timeDay": 331,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 51
+    }
   },
   {
     "name": "FONTUR.isolucion.co",
@@ -1863,17 +2063,19 @@
     "icon": "https://favicons.githubusercontent.com/fonturtest.isolucion.co",
     "slug": "fontur-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.73%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 320,
     "timeDay": 311,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 50
+    }
   },
   {
     "name": "fundacionbatuta.isolucion.co",
@@ -1881,17 +2083,19 @@
     "icon": "https://favicons.githubusercontent.com/fundacionbatuta.isolucion.co",
     "slug": "fundacionbatuta-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.76%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "97.76%",
     "time": 285,
     "timeDay": 254,
     "timeWeek": 285,
     "timeMonth": 285,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 49
+    }
   },
   {
     "name": "Fundelima.isolucion.co",
@@ -1917,17 +2121,19 @@
     "icon": "https://favicons.githubusercontent.com/fundelimatest.isolucion.co",
     "slug": "fundelima-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.79%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "97.79%",
     "time": 322,
     "timeDay": 323,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 49
+    }
   },
   {
     "name": "Gabrica.isolucion.co",
@@ -1935,17 +2141,19 @@
     "icon": "https://favicons.githubusercontent.com/gabrica.isolucion.co",
     "slug": "gabrica-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.81%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 322,
     "timeDay": 324,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 48
+    }
   },
   {
     "name": "GlobalOil.isolucion.co",
@@ -1953,17 +2161,19 @@
     "icon": "https://favicons.githubusercontent.com/globaloil.isolucion.co",
     "slug": "global-oil-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.84%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
     "time": 327,
     "timeDay": 334,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 48
+    }
   },
   {
     "name": "GloriaColombia.isolucion.co",
@@ -1971,17 +2181,19 @@
     "icon": "https://favicons.githubusercontent.com/gloriacolombia.isolucion.co",
     "slug": "gloria-colombia-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.86%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 322,
     "timeDay": 317,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 47
+    }
   },
   {
     "name": "goldenbusinessclass.isolucion.co",
@@ -2025,17 +2237,19 @@
     "icon": "https://favicons.githubusercontent.com/griffithfoodstest.isolucion.co",
     "slug": "griffithfoods-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.90%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.90%",
     "time": 328,
     "timeDay": 319,
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 46
+    }
   },
   {
     "name": "Grupoafin.isolucion.co",
@@ -2061,17 +2275,19 @@
     "icon": "https://favicons.githubusercontent.com/grupoalfa.isolucion.co",
     "slug": "grupo-alfa-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.93%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "97.93%",
     "time": 323,
     "timeDay": 328,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 46
+    }
   },
   {
     "name": "grupoasd.isolucion.co",
@@ -2079,17 +2295,19 @@
     "icon": "https://favicons.githubusercontent.com/grupoasd.isolucion.co",
     "slug": "grupoasd-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.96%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
     "time": 268,
     "timeDay": 267,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 45
+    }
   },
   {
     "name": "gruposiderurgico.isolucion.co",
@@ -2097,17 +2315,19 @@
     "icon": "https://favicons.githubusercontent.com/gruposiderurgico.isolucion.co",
     "slug": "gruposiderurgico-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.98%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.98%",
     "time": 278,
     "timeDay": 301,
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 45
+    }
   },
   {
     "name": "gruposiderurgicoTest.isolucion.co",
@@ -2115,17 +2335,19 @@
     "icon": "https://favicons.githubusercontent.com/gruposiderurgicotest.isolucion.co",
     "slug": "gruposiderurgico-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.00%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.00%",
     "time": 332,
     "timeDay": 333,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 44
+    }
   },
   {
     "name": "Guarne.isolucion.co",
@@ -2133,17 +2355,19 @@
     "icon": "https://favicons.githubusercontent.com/guarne.isolucion.co",
     "slug": "guarne-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.03%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
     "time": 348,
     "timeDay": 318,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 44
+    }
   },
   {
     "name": "gyjintegracion.isolucion.co",
@@ -2151,17 +2375,19 @@
     "icon": "https://favicons.githubusercontent.com/gyjintegracion.isolucion.co",
     "slug": "gyjintegracion-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.05%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.05%",
     "time": 269,
     "timeDay": 254,
     "timeWeek": 269,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 43
+    }
   },
   {
     "name": "Haceb.isolucion.co",
@@ -2169,17 +2395,19 @@
     "icon": "https://favicons.githubusercontent.com/haceb.isolucion.co",
     "slug": "haceb-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.07%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 344,
     "timeDay": 347,
     "timeWeek": 344,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 42
+    }
   },
   {
     "name": "HacebTest.isolucion.co",
@@ -2187,17 +2415,19 @@
     "icon": "https://favicons.githubusercontent.com/hacebtest.isolucion.co",
     "slug": "haceb-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.10%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 439,
     "timeDay": 422,
     "timeWeek": 439,
     "timeMonth": 439,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 42
+    }
   },
   {
     "name": "harinerapardo.isolucion.co",
@@ -2223,17 +2453,19 @@
     "icon": "https://favicons.githubusercontent.com/hermanasdominicas.isolucion.co",
     "slug": "hermanasdominicas-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.13%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 362,
     "timeDay": 380,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 41
+    }
   },
   {
     "name": "hgingenieria.isolucion.co",
@@ -2241,17 +2473,19 @@
     "icon": "https://favicons.githubusercontent.com/hgingenieria.isolucion.co",
     "slug": "hgingenieria-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.15%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 264,
     "timeDay": 254,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 41
+    }
   },
   {
     "name": "hgingenieriaTest.isolucion.co",
@@ -2259,17 +2493,19 @@
     "icon": "https://favicons.githubusercontent.com/hgingenieriatest.isolucion.co",
     "slug": "hgingenieria-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.18%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
     "time": 320,
     "timeDay": 326,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 40
+    }
   },
   {
     "name": "iasociadas.isolucion.co",
@@ -2295,17 +2531,19 @@
     "icon": "https://favicons.githubusercontent.com/iasociadastest.isolucion.co",
     "slug": "iasociadastest-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.21%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
     "time": 264,
     "timeDay": 249,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 39
+    }
   },
   {
     "name": "ICCONSTRUCTORA.isolucion.co",
@@ -2313,36 +2551,38 @@
     "icon": "https://favicons.githubusercontent.com/icconstructora.isolucion.co",
     "slug": "icconstructora-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.23%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
     "time": 344,
     "timeDay": 335,
     "timeWeek": 344,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 39
+    }
   },
   {
     "name": "ICCONSTRUCTORATest.isolucion.co",
     "url": "https://ICCONSTRUCTORATest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/icconstructoratest.isolucion.co",
     "slug": "icconstructora-test-isolucion-co",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 140,
-    "timeDay": 144,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 190,
+    "timeDay": 241,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-03-27": 159,
+      "2022-03-27": 259,
       "2022-03-26": 1440,
       "2022-03-25": 502
     }
@@ -2353,17 +2593,19 @@
     "icon": "https://favicons.githubusercontent.com/iccundinamarca.isolucion.co",
     "slug": "ic-cundinamarca-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.28%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.28%",
     "time": 325,
     "timeDay": 332,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 38
+    }
   },
   {
     "name": "ICCundinamarcaTest.isolucion.co",
@@ -2371,17 +2613,19 @@
     "icon": "https://favicons.githubusercontent.com/iccundinamarcatest.isolucion.co",
     "slug": "ic-cundinamarca-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.31%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 316,
     "timeDay": 310,
     "timeWeek": 316,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 37
+    }
   },
   {
     "name": "Implem.isolucion.co",
@@ -2389,17 +2633,19 @@
     "icon": "https://favicons.githubusercontent.com/implem.isolucion.co",
     "slug": "implem-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.33%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 491,
     "timeDay": 395,
     "timeWeek": 491,
     "timeMonth": 491,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 37
+    }
   },
   {
     "name": "IMPRESISTEM.isolucion.co",
@@ -2407,17 +2653,19 @@
     "icon": "https://favicons.githubusercontent.com/impresistem.isolucion.co",
     "slug": "impresistem-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.35%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
     "time": 318,
     "timeDay": 322,
     "timeWeek": 318,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 36
+    }
   },
   {
     "name": "IMPRESISTEMTest.isolucion.co",
@@ -2425,17 +2673,19 @@
     "icon": "https://favicons.githubusercontent.com/impresistemtest.isolucion.co",
     "slug": "impresistem-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.38%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 327,
     "timeDay": 334,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 36
+    }
   },
   {
     "name": "imsa.isolucion.co",
@@ -2443,17 +2693,19 @@
     "icon": "https://favicons.githubusercontent.com/imsa.isolucion.co",
     "slug": "imsa-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.40%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 263,
     "timeDay": 271,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 35
+    }
   },
   {
     "name": "Ingevias.isolucion.co",
@@ -2461,17 +2713,19 @@
     "icon": "https://favicons.githubusercontent.com/ingevias.isolucion.co",
     "slug": "ingevias-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.42%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 332,
     "timeDay": 336,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 35
+    }
   },
   {
     "name": "INNINGGROUP.isolucion.co",
@@ -2479,17 +2733,19 @@
     "icon": "https://favicons.githubusercontent.com/inninggroup.isolucion.co",
     "slug": "inninggroup-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.45%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
     "time": 330,
     "timeDay": 321,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 34
+    }
   },
   {
     "name": "INPROQUIM.isolucion.co",
@@ -2497,17 +2753,19 @@
     "icon": "https://favicons.githubusercontent.com/inproquim.isolucion.co",
     "slug": "inproquim-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.47%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "98.47%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
     "time": 323,
     "timeDay": 321,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 34
+    }
   },
   {
     "name": "IPFSAS.isolucion.co",
@@ -2515,17 +2773,19 @@
     "icon": "https://favicons.githubusercontent.com/ipfsas.isolucion.co",
     "slug": "ipfsas-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.49%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 323,
     "timeDay": 325,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 33
+    }
   },
   {
     "name": "IPFSASTest.isolucion.co",
@@ -2533,17 +2793,19 @@
     "icon": "https://favicons.githubusercontent.com/ipfsastest.isolucion.co",
     "slug": "ipfsas-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.52%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 324,
     "timeDay": 315,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 33
+    }
   },
   {
     "name": "itsinfocom.isolucion.co",
@@ -2569,17 +2831,19 @@
     "icon": "https://favicons.githubusercontent.com/itsinfocomtest.isolucion.co",
     "slug": "itsinfocom-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.55%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 322,
     "timeDay": 323,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 32
+    }
   },
   {
     "name": "jargu.isolucion.co",
@@ -2605,17 +2869,19 @@
     "icon": "https://favicons.githubusercontent.com/juandecastellanos.isolucion.co",
     "slug": "juandecastellanos-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.59%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.59%",
     "time": 141,
     "timeDay": 142,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 31
+    }
   },
   {
     "name": "KHIRON.isolucion.co",
@@ -2641,17 +2907,19 @@
     "icon": "https://favicons.githubusercontent.com/khirontest.isolucion.co",
     "slug": "khiron-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.62%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 324,
     "timeDay": 323,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 30
+    }
   },
   {
     "name": "KLISTO.isolucion.co",
@@ -2659,35 +2927,39 @@
     "icon": "https://favicons.githubusercontent.com/klisto.isolucion.co",
     "slug": "klisto-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.64%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 348,
     "timeDay": 343,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 30
+    }
   },
   {
     "name": "Koneggui.isolucion.co",
     "url": "https://Koneggui.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/koneggui.isolucion.co",
     "slug": "koneggui-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 314,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
+    "time": 271,
+    "timeDay": 226,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {
+      "2022-03-27": 29
+    }
   },
   {
     "name": "KYROVET.isolucion.co",
@@ -2695,17 +2967,19 @@
     "icon": "https://favicons.githubusercontent.com/kyrovet.isolucion.co",
     "slug": "kyrovet-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.69%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
     "time": 319,
     "timeDay": 303,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 29
+    }
   },
   {
     "name": "labechavarria.isolucion.co",
@@ -2713,17 +2987,19 @@
     "icon": "https://favicons.githubusercontent.com/labechavarria.isolucion.co",
     "slug": "labechavarria-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.71%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 272,
     "timeDay": 269,
     "timeWeek": 272,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 28
+    }
   },
   {
     "name": "labmedico.isolucion.co",
@@ -2731,17 +3007,19 @@
     "icon": "https://favicons.githubusercontent.com/labmedico.isolucion.co",
     "slug": "labmedico-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.74%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
     "time": 265,
     "timeDay": 271,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 28
+    }
   },
   {
     "name": "LabQuimClinico.isolucion.co",
@@ -2749,17 +3027,19 @@
     "icon": "https://favicons.githubusercontent.com/labquimclinico.isolucion.co",
     "slug": "lab-quim-clinico-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.76%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
     "time": 344,
     "timeDay": 364,
     "timeWeek": 344,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 27
+    }
   },
   {
     "name": "Lafrancol.isolucion.co",
@@ -2767,17 +3047,19 @@
     "icon": "https://favicons.githubusercontent.com/lafrancol.isolucion.co",
     "slug": "lafrancol-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.78%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
     "time": 319,
     "timeDay": 320,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 27
+    }
   },
   {
     "name": "lamesa.isolucion.co",
@@ -2785,17 +3067,19 @@
     "icon": "https://favicons.githubusercontent.com/lamesa.isolucion.co",
     "slug": "lamesa-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.81%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 141,
     "timeDay": 143,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 26
+    }
   },
   {
     "name": "lamesaTest.isolucion.co",
@@ -2803,17 +3087,19 @@
     "icon": "https://favicons.githubusercontent.com/lamesatest.isolucion.co",
     "slug": "lamesa-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.83%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 339,
     "timeDay": 317,
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 26
+    }
   },
   {
     "name": "lameseta.isolucion.co",
@@ -2821,17 +3107,19 @@
     "icon": "https://favicons.githubusercontent.com/lameseta.isolucion.co",
     "slug": "lameseta-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.85%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 265,
     "timeDay": 273,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 25
+    }
   },
   {
     "name": "Lasmisiones.isolucion.co",
@@ -2839,17 +3127,19 @@
     "icon": "https://favicons.githubusercontent.com/lasmisiones.isolucion.co",
     "slug": "lasmisiones-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.88%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 327,
     "timeDay": 324,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 25
+    }
   },
   {
     "name": "LasmisionesTest.isolucion.co",
@@ -2857,17 +3147,19 @@
     "icon": "https://favicons.githubusercontent.com/lasmisionestest.isolucion.co",
     "slug": "lasmisiones-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.90%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 326,
     "timeDay": 323,
     "timeWeek": 326,
     "timeMonth": 326,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 24
+    }
   },
   {
     "name": "LATCALINSA.isolucion.co",
@@ -2875,17 +3167,19 @@
     "icon": "https://favicons.githubusercontent.com/latcalinsa.isolucion.co",
     "slug": "latcalinsa-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.93%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
     "time": 324,
     "timeDay": 325,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 24
+    }
   },
   {
     "name": "LCNIdiomas.isolucion.co",
@@ -2893,17 +3187,19 @@
     "icon": "https://favicons.githubusercontent.com/lcnidiomas.isolucion.co",
     "slug": "lcn-idiomas-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.95%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.95%",
     "time": 332,
     "timeDay": 351,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 23
+    }
   },
   {
     "name": "letratiempo.isolucion.co",
@@ -2911,17 +3207,19 @@
     "icon": "https://favicons.githubusercontent.com/letratiempo.isolucion.co",
     "slug": "letratiempo-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.97%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
     "time": 266,
     "timeDay": 263,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 23
+    }
   },
   {
     "name": "LHA.isolucion.co",
@@ -2929,17 +3227,19 @@
     "icon": "https://favicons.githubusercontent.com/lha.isolucion.co",
     "slug": "lha-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.00%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 329,
     "timeDay": 331,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 22
+    }
   },
   {
     "name": "Lhoist.isolucion.co",
@@ -2965,17 +3265,19 @@
     "icon": "https://favicons.githubusercontent.com/lmedick.isolucion.co",
     "slug": "lmedick-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.06%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 335,
     "timeDay": 359,
     "timeWeek": 335,
     "timeMonth": 335,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 21
+    }
   },
   {
     "name": "MACROTICS.isolucion.co",
@@ -3001,17 +3303,19 @@
     "icon": "https://favicons.githubusercontent.com/macroticstest.isolucion.co",
     "slug": "macrotics-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.11%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 328,
     "timeDay": 326,
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 20
+    }
   },
   {
     "name": "mercadosMadrid.isolucion.co",
@@ -3037,17 +3341,19 @@
     "icon": "https://favicons.githubusercontent.com/mercadosmadridtest.isolucion.co",
     "slug": "mercados-madrid-test-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.17%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 327,
     "timeDay": 328,
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 18
+    }
   },
   {
     "name": "mesurametrologia.isolucion.co",
@@ -3091,17 +3397,19 @@
     "icon": "https://favicons.githubusercontent.com/multigranos.isolucion.co",
     "slug": "multigranos-isolucion-co",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.23%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 316,
     "timeDay": 312,
     "timeWeek": 316,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-27": 17
+    }
   },
   {
     "name": "municipioconcordia.isolucion.co",
@@ -4026,36 +4334,40 @@
     "url": "https://SI18SAS.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/si18sas.isolucion.co",
     "slug": "si-18-sas-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 348,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 294,
+    "timeDay": 243,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
+    "dailyMinutesDown": {
+      "2022-03-27": 8
+    }
   },
   {
     "name": "SI18SASTest.isolucion.co",
     "url": "https://SI18SASTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/si18sastest.isolucion.co",
     "slug": "si-18-sas-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 323,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 278,
+    "timeDay": 226,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2022-03-27": 3
+    }
   },
   {
     "name": "sigo.icontec.org/IsolucionV4",
@@ -4116,18 +4428,20 @@
     "url": "https://SimexTest.isolucion.co",
     "icon": "https://favicons.githubusercontent.com/simextest.isolucion.co",
     "slug": "simex-test-isolucion-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 715,
-    "timeWeek": 866,
-    "timeMonth": 866,
-    "timeYear": 866,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 685,
+    "timeDay": 428,
+    "timeWeek": 685,
+    "timeMonth": 685,
+    "timeYear": 685,
+    "dailyMinutesDown": {
+      "2022-03-27": 1
+    }
   },
   {
     "name": "sincromotors.isolucion.co",

@@ -283,8 +283,6 @@ sites:
   url: https://INPROQUIM.isolucion.co
 - name: IPFSAS.isolucion.co
   url: https://IPFSAS.isolucion.co
-- name: IPFSASTest.isolucion.co
-  url: https://IPFSASTest.isolucion.co
 - name: itsinfocom.isolucion.co
   url: https://itsinfocom.isolucion.co
 - name: itsinfocomTest.isolucion.co
@@ -497,8 +495,6 @@ sites:
   url: https://TECNASTest.isolucion.co
 - name: tecnoalsa.isolucion.co
   url: https://tecnoalsa.isolucion.co
-- name: tecnoalsaTest.isolucion.co
-  url: https://tecnoalsaTest.isolucion.co
 - name: TERRAGENE.isolucion.co
   url: https://TERRAGENE.isolucion.co
 - name: TERRAGENETest.isolucion.co

@@ -461,8 +461,6 @@ sites:
   url: https://SimexTest.isolucion.co
 - name: sincromotors.isolucion.co
   url: https://sincromotors.isolucion.co
-- name: Sismedica.isolucion.co
-  url: https://Sismedica.isolucion.co
 - name: Solobus.isolucion.co
   url: https://Solobus.isolucion.co
 - name: SolobusTest.isolucion.co

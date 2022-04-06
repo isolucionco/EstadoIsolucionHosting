@@ -275,6 +275,8 @@ sites:
   url: https://IMPRESISTEMTest.isolucion.co
 - name: imsa.isolucion.co
   url: https://imsa.isolucion.co
+  - name: imsatest.isolucion.co
+  url: https://imsatest.isolucion.co
 - name: Ingevias.isolucion.co
   url: https://Ingevias.isolucion.co
 - name: INNINGGROUP.isolucion.co

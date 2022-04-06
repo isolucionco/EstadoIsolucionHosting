@@ -419,8 +419,6 @@ sites:
   url: https://QAFederados.isolucion.co
 - name: QAMIPG.isolucion.co
   url: https://QAMIPG.isolucion.co
-- name: QUANTASERVICES.isolucion.co
-  url: https://QUANTASERVICES.isolucion.co
 - name: Radiologosasociados.isolucion.co
   url: https://Radiologosasociados.isolucion.co
 - name: RadiologosasociadosTest.isolucion.co
@@ -503,8 +501,6 @@ sites:
   url: https://TEXCOMERCIALTest.isolucion.co
 - name: tmsyp.isolucion.co
   url: https://tmsyp.isolucion.co
-- name: tmsypTest.isolucion.co
-  url: https://tmsypTest.isolucion.co
 - name: TransportesAlex.isolucion.co
   url: https://TransportesAlex.isolucion.co
 - name: Uam.isolucion.co

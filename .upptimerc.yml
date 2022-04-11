@@ -333,7 +333,9 @@ sites:
   url: https://Lhoist.isolucion.co
 - name: Lmedick.isolucion.co
   url: https://Lmedick.isolucion.co
-- name: MACROTICS.isolucion.co
+  - name: lumlogistic.isolucion.co
+  url: https://lumlogistic.isolucion.co
+  - name: MACROTICS.isolucion.co
   url: https://MACROTICS.isolucion.co
 - name: MACROTICSTest.isolucion.co
   url: https://MACROTICSTest.isolucion.co
@@ -345,8 +347,6 @@ sites:
   url: https://mesurametrologia.isolucion.co
 - name: molinosyopal.isolucion.co
   url: https://molinosyopal.isolucion.co
-- name: Multigranos.isolucion.co
-  url: https://Multigranos.isolucion.co
 - name: municipioconcordia.isolucion.co
   url: https://municipioconcordia.isolucion.co
 - name: municipioconcordiaTest.isolucion.co

@@ -21,6 +21,8 @@ sites:
   url: https://AlcaldiaBarranquillaTest.isolucion.co
 - name: AlcaldiaDeManizales.isolucion.co
   url: https://AlcaldiaDeManizales.isolucion.co
+- name: alianzatemporales.isolucion.co 
+  url: https://alianzatemporales.isolucion.co
 - name: AlcaldiaTocancipa.Isolucion.co
   url: https://AlcaldiaTocancipa.Isolucion.co
 - name: AlcCajica.isolucion.co
@@ -543,6 +545,8 @@ sites:
   url: https://ZALTSAS.isolucion.co
 - name: ZALTSASTest.isolucion.co
   url: https://ZALTSASTest.isolucion.co
+  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

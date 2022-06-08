@@ -325,8 +325,7 @@ sites:
   url: https://itsinfocom.isolucion.co
 - name: itsinfocomTest.isolucion.co
   url: https://itsinfocomTest.isolucion.co
-- name: jargu.iso
-ucion.co
+- name: jargu.isolucion.co
   url: https://jargu.isolucion.co
 - name: jarguTest.isolucion.co
   url: https://jarguTest.isolucion.co
@@ -611,7 +610,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /EstadoIsolucionHosting
   logoUrl: https://isolucion.com/wp-content/uploads/2021/05/isolucion25.png
-  name: Pagina de Estado Hosting
+  name: Pagina de Estado Hosting ISOLUCION
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:

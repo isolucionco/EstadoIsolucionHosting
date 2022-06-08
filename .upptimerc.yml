@@ -149,6 +149,8 @@ sites:
   url: https://Combarranquilla.isolucion.co
 - name: ComercialDemo.isolucion.co
   url: https://ComercialDemo.isolucion.co
+  - name: DemoComercial.isolucion.co
+  url: https://DemoComercial.isolucion.co
 - name: Comercializadora3c.isolucion.co
   url: https://Comercializadora3c.isolucion.co
 - name: ComfamiliarRisaralda.isolucion.co

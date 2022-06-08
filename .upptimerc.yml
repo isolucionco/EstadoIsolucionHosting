@@ -599,7 +599,7 @@ sites:
   url: https://VPCOM.isolucion.co
 - name: ZALTSAS.isolucion.co
   url: https://ZALTSAS.isolucion.co
-- name: ZALTSASTest.isolucion.cO
+- name: ZALTSASTest.isolucion.co
   url: https://ZALTSASTest.isolucion.co
   
 

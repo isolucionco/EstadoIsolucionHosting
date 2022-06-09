@@ -3,606 +3,679 @@ owner: isolucionco # Your GitHub organization or username, where this repository
 repo: EstadoIsolucionHosting # The name of this repository
 
 sites:
-- name: Adiquim.isolucion.co
-  url: https://Adiquim.isolucion.co
-- name: AdiquimTest.isolucion.co
-  url: https://AdiquimTest.isolucion.co
-- name: Adn.isolucion.co
-  url: https://Adn.isolucion.co
-- name: AgrocomercialCagir.isolucion.co
-  url: https://AgrocomercialCagir.isolucion.co
-- name: AIRTEMP.isolucion.co
-  url: https://AIRTEMP.isolucion.co
-- name: ALBATEQ.isolucion.co
-  url: https://ALBATEQ.isolucion.co
-- name: AlcaldiaBarranquilla.isolucion.co
-  url: https://AlcaldiaBarranquilla.isolucion.co
-- name: AlcaldiaBarranquillaTest.isolucion.co
-  url: https://AlcaldiaBarranquillaTest.isolucion.co
-- name: AlcaldiaDeManizales.isolucion.co
-  url: https://AlcaldiaDeManizales.isolucion.co
-- name: alianzatemporales.isolucion.co 
-  url: https://alianzatemporales.isolucion.co
-- name: AlcaldiaTocancipa.Isolucion.co
-  url: https://AlcaldiaTocancipa.Isolucion.co
-- name: AlcCajica.isolucion.co
-  url: https://AlcCajica.isolucion.co
-- name: ALFANET.isolucion.co
-  url: https://ALFANET.isolucion.co
-- name: ALFANETTest.isolucion.co
-  url: https://ALFANETTest.isolucion.co
-- name: alianzatemporales.isolucion.co
-  url: https://alianzatemporales.isolucion.co
-- name: alianzatemporalesTest.isolucion.co
-  url: https://alianzatemporalesTest.isolucion.co
-- name: Alico.isolucion.co
-  url: https://Alico.isolucion.co
-- name: ALTEQTest.isolucion.co
-  url: https://ALTEQTest.isolucion.co
-- name: Alura.isolucion.co
-  url: https://Alura.isolucion.co
-- name: AluraTest.isolucion.co
-  url: https://AluraTest.isolucion.co
-- name: AMVSA.isolucion.co
-  url: https://AMVSA.isolucion.co
-- name: AMVSATest.isolucion.co
-  url: https://AMVSATest.isolucion.co
-- name: angiografia.isolucion.co
-  url: https://angiografia.isolucion.co
-- name: angiografiaTest.isolucion.co
-  url: https://angiografiaTest.isolucion.co
-- name: AON.isolucion.co
-  url: https://AON.isolucion.co
-- name: Asobancaria.isolucion.co
-  url: https://Asobancaria.isolucion.co
-- name: atinaenergy.isolucion.co
-  url: https://atinaenergy.isolucion.co
-- name: atinaenergyTest.isolucion.co
-  url: https://atinaenergyTest.isolucion.co
-- name: AUDIFARMA.isolucion.co
-  url: https://AUDIFARMA.isolucion.co
-- name: AUDIFARMATest.isolucion.co
-  url: https://AUDIFARMATest.isolucion.co
-- name: BAGGRIT.isolucion.co
-  url: https://BAGGRIT.isolucion.co
-- name: BAINCOL.isolucion.co
-  url: https://BAINCOL.isolucion.co
-- name: BAINCOLTest.isolucion.co
-  url: https://BAINCOLTest.isolucion.co
-- name: BASC.isolucion.co
-  url: https://BASC.isolucion.co
-- name: bgcol.isolucion.co
-  url: https://bgcol.isolucion.co
-- name: bgcolTest.isolucion.co
-  url: https://bgcolTest.isolucion.co
-- name: Bimbo.isolucion.co
-  url: https://Bimbo.isolucion.co
-- name: Biotronitech.isolucion.co
-  url: https://Biotronitech.isolucion.co
-- name: BiotronitechTest.isolucion.co
-  url: https://BiotronitechTest.isolucion.co
-- name: Blaskov.Isolucion.co
-  url: https://Blaskov.Isolucion.co
-- name: bmiseguros.isolucion.co
-  url: https://bmiseguros.isolucion.co
-- name: bonsetlatinamerica.isolucion.co
-  url: https://bonsetlatinamerica.isolucion.co
-- name: bonsetlatinamericaTest.isolucion.co
-  url: https://bonsetlatinamericaTest.isolucion.co
-- name: BRASERV.isolucion.co
-  url: https://BRASERV.isolucion.co
-- name: BRASERVTest.isolucion.co
-  url: https://BRASERVTest.isolucion.co
-- name: bomberofloridablanca.isolucion.co
-  url: https://bomberofloridablancaTest.isolucion.co
-- name: BUGORG.isolucion.co
-  url: https://BUGORG.isolucion.co
-- name: BUGORGTest.isolucion.co
-  url: https://BUGORGTest.isolucion.co
-- name: Calima.isolucion.co
-  url: https://Calima.isolucion.co
-- name: CalimaTest.isolucion.co
-  url: https://CalimaTest.isolucion.co
-- name: capacitacion.isolucion.co
-  url: https://capacitacion.isolucion.co
-- name: Carex.isolucion.co
-  url: https://Carex.isolucion.co
-- name: CarexTest.isolucion.co
-  url: https://CarexTest.isolucion.co
-- name: Cartama.isolucion.co
-  url: https://Cartama.isolucion.co
-- name: CartamaTest.isolucion.co
-  url: https://CartamaTest.isolucion.co
-- name: CelestinFreinet.isolucion.co
-  url: https://CelestinFreinet.isolucion.co
-- name: CentralCervecera.isolucion.co
-  url: https://CentralCervecera.isolucion.co
-- name: CentralCerveceraTest.isolucion.co
-  url: https://CentralCerveceraTest.isolucion.co
-- name: centromayorcc.isolucion.co
-  url: https://centromayorcc.isolucion.co
-- name: Cerescos.isolucion.co
-  url: https://Cerescos.isolucion.co
-- name: Cesmag.isolucion.co
-  url: https://Cesmag.isolucion.co
-- name: CIFOODCOLOMBIA.isolucion.co
-  url: https://CIFOODCOLOMBIA.isolucion.co
-- name: clcgas.isolucion.co
-  url: https://clcgas.isolucion.co
-- name: COBELEN.isolucion.co
-  url: https://COBELEN.isolucion.co
-- name: COCESNA.isolucion.co
-  url: https://COCESNA.isolucion.co
-- name: COCESNATest.isolucion.co
-  url: https://COCESNATest.isolucion.co
-- name: colegiobennett.isolucion.co
-  url: https://colegiobennett.isolucion.co
-- name: Colegiojesusmaria.isolucion.co
-  url: https://Colegiojesusmaria.isolucion.co
-- name: Colegionuevagranada.isolucion.co
-  url: https://Colegionuevagranada.isolucion.co
-- name: collectcenter.isolucion.co
-  url: https://collectcenter.isolucion.co
-- name: collectcenterTest.isolucion.co
-  url: https://collectcenterTest.isolucion.co
-- name: Combarranquilla.isolucion.co
-  url: https://Combarranquilla.isolucion.co
-- name: ComercialDemo.isolucion.co
-  url: https://ComercialDemo.isolucion.co
-  - name: DemoComercial.isolucion.co
-  url: https://DemoComercial.isolucion.co
-- name: Comercializadora3c.isolucion.co
-  url: https://Comercializadora3c.isolucion.co
-- name: ComfamiliarRisaralda.isolucion.co
-  url: https://ComfamiliarRisaralda.isolucion.co
-- name: Comfandi.isolucion.co
-  url: https://Comfandi.isolucion.co
-- name: Consuerte.isolucion.co
-  url: https://Consuerte.isolucion.co
-- name: Contactar.isolucion.co
-  url: https://Contactar.isolucion.co
-- name: ContactarTest.isolucion.co 
-  url: https://ContactarTest.isolucion.co
-- name: COOPEDAC.isolucion.co
-  url: https://COOPEDAC.isolucion.co
-- name: COOPEDACTest.isolucion.co
-  url: https://COOPEDACTest.isolucion.co
-- name: coopminutodedios.isolucion.co
-  url: https://coopminutodedios.isolucion.co
-- name: Cooptenjo.isolucion.co
-  url: https://Cooptenjo.isolucion.co
-- name: CooptenjoTest.isolucion.co
-  url: https://CooptenjoTest.isolucion.co
-- name: Coordinadora.isolucion.co
-  url: https://Coordinadora.isolucion.co
-- name: CorpAmericana.isolucion.co
-  url: https://CorpAmericana.isolucion.co
-- name: CORSALUD.isolucion.co
-  url: https://CORSALUD.isolucion.co
-- name: cruzrojaantioquia.isolucion.co
-  url: https://cruzrojaantioquia.isolucion.co
-- name: cruzrojaantioquiaTest.isolucion.co
-  url: https://cruzrojaantioquiaTest.isolucion.co
-- name: CYPDELR.isolucion.co
-  url: https://CYPDELR.isolucion.co
-- name: dane.isolucion.co
-  url: https://dane.isolucion.co
-- name: danetest.isolucion.co
-  url: https://danetest.isolucion.co
-- name: deliveranceship.isolucion.co
-  url: https://deliveranceship.isolucion.co
-- name: deliveranceshipTest.isolucion.co
-  url: https://deliveranceshipTest.isolucion.co
-- name: DemoComercial.isolucion.co
-  url: https://DemoComercial.isolucion.co
-- name: DemoSarlaft.isolucion.co
-  url: https://DemoSarlaft.isolucion.co
-- name: Domotes.isolucion.co
-  url: https://Domotes.isolucion.co
-- name: Drypers.isolucion.co
-  url: https://Drypers.isolucion.co
-- name: educacionfuturo.isolucion.co
-  url: https://educacionfuturo.isolucion.co
-- name: ElectroquimicaWest.isolucion.co
-  url: https://ElectroquimicaWest.isolucion.co
-- name: ElRancherito.isolucion.co
-  url: https://ElRancherito.isolucion.co
-- name: EmpaquetadosElTrece.isolucion.co
-  url: https://EmpaquetadosElTrece.isolucion.co
-- name: EmpaquetadosElTreceTest.isolucion.co
-  url: https://EmpaquetadosElTreceTest.isolucion.co
-- name: Eterna.isolucion.co
-  url: https://Eterna.isolucion.co
-- name: EternaTest.isolucion.co
-  url: https://EternaTest.isolucion.co
-- name: equinorte.isolucion.co
-  url: https://equinorte.isolucion.co
-- name: equinorteTest.isolucion.co
-  url: https://equinorteTest.isolucion.co
-- name: Fenalce.isolucion.co
-  url: https://Fenalce.isolucion.co
-- name: Fiducentral.isolucion.co
-  url: https://Fiducentral.isolucion.co
-- name: FlagSoluciones.isolucion.co
-  url: https://FlagSoluciones.isolucion.co
-- name: FONTUR.isolucion.co
-  url: https://FONTUR.isolucion.co
-- name: FONTURTest.isolucion.co
-  url: https://FONTURTest.isolucion.co
-- name: FogafinTest.isolucion.co
-  url: https://FogafinTest.isolucion.co
-- name: FogafinTest.isolucion.co
-  url: https://FogafinTest.isolucion.co
-- name: fundacionbatuta.isolucion.co
-  url: https://fundacionbatuta.isolucion.co
-- name: Fundelima.isolucion.co
-  url: https://Fundelima.isolucion.co
-- name: FundelimaTest.isolucion.co
-  url: https://FundelimaTest.isolucion.co
-- name: Gabrica.isolucion.co
-  url: https://Gabrica.isolucion.co
-- name: GlobalOil.isolucion.co
-  url: https://GlobalOil.isolucion.co
-- name: GloriaColombia.isolucion.co
-  url: https://GloriaColombia.isolucion.co
-- name: goldenbusinessclass.isolucion.co
-  url: https://goldenbusinessclass.isolucion.co
-- name: griffithfoods.isolucion.co
-  url: https://griffithfoods.isolucion.co
-- name: griffithfoodsTest.isolucion.co
-  url: https://griffithfoodsTest.isolucion.co
-- name: Grupoafin.isolucion.co
-  url: https://Grupoafin.isolucion.co
-- name: GrupoAlfa.Isolucion.co
-  url: https://GrupoAlfa.Isolucion.co
-- name: grupoasd.isolucion.co
-  url: https://grupoasd.isolucion.co
-- name: gruposiderurgico.isolucion.co
-  url: https://gruposiderurgico.isolucion.co
-- name: gruposiderurgicoTest.isolucion.co
-  url: https://gruposiderurgicoTest.isolucion.co
-- name: GrupoGaleria.isolucion.com
-  url: https://GrupoGaleria.isolucion.com
-- name: GrupoGaleriaTest.isolucion.com
-  url: https://GrupoGaleriaTest.isolucion.com 
-- name: grupohinode.isolucion.co
-  url: https://grupohinode.isolucion.co
-- name: Guarne.isolucion.co
-  url: https://Guarne.isolucion.co
-- name: gyjintegracion.isolucion.co
-  url: https://gyjintegracion.isolucion.co
-- name: harinerapardoTest.isolucion.co
-  url: https://harinerapardoTest.isolucion.co
-- name: Haceb.isolucion.co
-  url: https://Haceb.isolucion.co
-- name: HacebTest.isolucion.co
-  url: https://HacebTest.isolucion.co
-- name: harinerapardo.isolucion.co
-  url: https://harinerapardo.isolucion.co
-- name: Hermanasdominicas.isolucion.co
-  url: https://Hermanasdominicas.isolucion.co
-- name: hgingenieria.isolucion.co
-  url: https://hgingenieria.isolucion.co
-- name: hgingenieriaTest.isolucion.co
-  url: https://hgingenieriaTest.isolucion.co
-- name: iasociadas.isolucion.co
-  url: https://iasociadas.isolucion.co
-- name: iasociadastest.isolucion.co
-  url: https://iasociadastest.isolucion.co
-- name: ICCONSTRUCTORA.isolucion.co
-  url: https://ICCONSTRUCTORA.isolucion.co
-- name: ICCONSTRUCTORATest.isolucion.co
-  url: https://ICCONSTRUCTORATest.isolucion.co
-- name: ICCundinamarca.isolucion.co
-  url: https://ICCundinamarca.isolucion.co
-- name: ICCundinamarcaTest.isolucion.co
-  url: https://ICCundinamarcaTest.isolucion.co
-- name: ISIPLAST.isolucion.com
-  url: https://ISIPLAST.isolucion.com
-- name: ISIPLASTTest.isolucion.com
-  url: https://ISIPLASTTest.isolucion.com
-- name: Implem.isolucion.co
-  url: https://Implem.isolucion.co
-- name: IMPRESISTEM.isolucion.co
-  url: https://IMPRESISTEM.isolucion.co
-- name: IMPRESISTEMTest.isolucion.co
-  url: https://IMPRESISTEMTest.isolucion.co
-- name: imsa.isolucion.co
-  url: https://imsa.isolucion.co
-  - name: imsatest.isolucion.co
-  url: https://imsatest.isolucion.co
-- name: Ingevias.isolucion.co
-  url: https://Ingevias.isolucion.co
-- name: INNINGGROUP.isolucion.co
-  url: https://INNINGGROUP.isolucion.co
-- name: INPROQUIM.isolucion.co
-  url: https://INPROQUIM.isolucion.co
-- name: IPFSAS.isolucion.co
-  url: https://IPFSAS.isolucion.co
-- name: IPFSASTest.isolucion.co
-  url: https://IPFSASTest.isolucion.co
-- name: itsinfocom.isolucion.co
-  url: https://itsinfocom.isolucion.co
-- name: itsinfocomTest.isolucion.co
-  url: https://itsinfocomTest.isolucion.co
-- name: jargu.isolucion.co
-  url: https://jargu.isolucion.co
-- name: jarguTest.isolucion.co
-  url: https://jarguTest.isolucion.co
-- name: Juandecastellanos.isolucion.co
-  url: https://Juandecastellanos.isolucion.co
-- name: KHIRON.isolucion.co
-  url: https://KHIRON.isolucion.co
-- name: KHIRONTest.isolucion.co
-  url: https://KHIRONTest.isolucion.co
-- name: KLISTO.isolucion.co
-  url: https://KLISTO.isolucion.co
-- name: Koneggui.isolucion.co
-  url: https://Koneggui.isolucion.co
-- name: KYROVET.isolucion.co
-  url: https://KYROVET.isolucion.co
-- name: KYROVETTest.isolucion.co
-  url: https://KYROVETTest.isolucion.co
-- name: labechavarria.isolucion.co
-  url: https://labechavarria.isolucion.co
-- name: labmedico.isolucion.co
-  url: https://labmedico.isolucion.co
-- name: LabQuimClinico.isolucion.co
-  url: https://LabQuimClinico.isolucion.co
-- name: Lafrancol.isolucion.co
-  url: https://Lafrancol.isolucion.co
-- name: lamesa.isolucion.co
-  url: https://lamesa.isolucion.co
-- name: lamesaTest.isolucion.co
-  url: https://lamesaTest.isolucion.co
-- name: lameseta.isolucion.co
-  url: https://lameseta.isolucion.co
-- name: Lasmisiones.isolucion.co
-  url: https://Lasmisiones.isolucion.co
-- name: LasmisionesTest.isolucion.co
-  url: https://LasmisionesTest.isolucion.co
-- name: LATCALINSA.isolucion.co
-  url: https://LATCALINSA.isolucion.co
-  name: LUMLOGISTIC.isolucion.co
-- url: https://LUMLOGISTIC.isolucion.co
-- name: LCNIdiomas.isolucion.co
-  url: https://LCNIdiomas.isolucion.co
-- name: letratiempo.isolucion.co
-  url: https://letratiempo.isolucion.co
-- name: LHA.isolucion.co
-  url: https://LHA.isolucion.co
-- name: Lhoist.isolucion.co
-  url: https://Lhoist.isolucion.co
-- name: Lmedick.isolucion.co
-  url: https://Lmedick.isolucion.co
-  - name: lumlogistic.isolucion.co
-  url: https://lumlogistic.isolucion.co
-  - name: MACROTICS.isolucion.co
-  url: https://MACROTICS.isolucion.co
-- name: MACROTICSTest.isolucion.co
-  url: https://MACROTICSTest.isolucion.co
-- name: mercadosMadrid.isolucion.co
-  url: https://mercadosMadrid.isolucion.co
-- name: mercadosMadridTest.isolucion.co
-  url: https://mercadosMadridTest.isolucion.co
-- name: mesurametrologia.isolucion.co
-  url: https://mesurametrologia.isolucion.co
-- name: molinosyopal.isolucion.co
-  url: https://molinosyopal.isolucion.co
-- name: municipioconcordia.isolucion.co
-  url: https://municipioconcordia.isolucion.co
-- name: municipioconcordiaTest.isolucion.co
-  url: https://municipioconcordiaTest.isolucion.co
-- name: mymmanejo.isolucion.co
-  url: https://mymmanejo.isolucion.co
-- name: mymmanejoTest.isolucion.co
-  url: https://mymmanejoTest.isolucion.co
-- name: naturacert.isolucion.co
-  url: https://naturacert.isolucion.co
-- name: naturacertTest.isolucion.co
-  url: https://naturacertTest.isolucion.co
-- name: Novabase.isolucion.co
-  url: https://Novabase.isolucion.co
-- name: Nutreo.isolucion.co
-  url: https://Nutreo.isolucion.co
-- name: NutreoTest.isolucion.co
-  url: https://NutreoTest.isolucion.co
-- name: Nutrium.isolucion.co
-  url: https://Nutrium.isolucion.co
-- name: NutriumTest.isolucion.co
-  url: https://NutriumTest.isolucion.co
-- name: OmegaEnergy.isolucion.co
-  url: https://OmegaEnergy.isolucion.co
-- name: OmegaEnergyTest.isolucion.co
-  url: https://OmegaEnergyTest.isolucion.co
-- name: ONACORG.isolucion.co
-  url: https://ONACORG.isolucion.co
-- name: ONACORGTest.isolucion.co
-  url: https://ONACORGTest.isolucion.co
-- name: ONELINK.isolucion.co
-  url: https://ONELINK.isolucion.co
-- name: ONELINKTest.isolucion.co
-  url: https://ONELINKTest.isolucion.co
-- name: ONGCVIDESH.isolucion.co
-  url: https://ONGCVIDESH.isolucion.co
-- name: Orientame.isolucion.co
-  url: https://Orientame.isolucion.co
-- name: OrientameTest.isolucion.co
-  url: https://OrientameTest.isolucion.co
-- name: Ovosur.isolucion.co
-  url: https://Ovosur.isolucion.co
-- name: pagosgde.isolucion.co
-  url: https://pagosgde.isolucion.co
-- name: PISENDE.isolucion.co
-  url: https://PISENDE.isolucion.co
-- name: PISENDETest.isolucion.co
-  url: https://PISENDETest.isolucion.co
-- name: PLASTIPACK.isolucion.co
-  url: https://PLASTIPACK.isolucion.co
-- name: PLASTIPACKTest.isolucion.co
-  url: https://PLASTIPACKTest.isolucion.co
-- name: Prebel.isolucion.co
-  url: https://Prebel.isolucion.co
-- name: PrebelTest.isolucion.co
-  url: https://PrebelTest.isolucion.co
-- name: Premex.isolucion.co
-  url: https://Premex.isolucion.co
-- name: PremexTest.isolucion.co
-  url: https://PremexTest.isolucion.co
-- name: Profamilia.isolucion.co
-  url: https://Profamilia.isolucion.co
-- name: ProfamiliaTest.isolucion.co
-  url: https://ProfamiliaTest.isolucion.co
-- name: puertodebarranquilla.isolucion.co
-  url: https://puertodebarranquilla.isolucion.co
-- name: puertodebarranquillaTest.isolucion.co
-  url: https://puertodebarranquillaTest.isolucion.co
-- name: QA.isolucion.co
-  url: https://QA.isolucion.co
-- name: QAFederados.isolucion.co
-  url: https://QAFederados.isolucion.co
-- name: QAMIPG.isolucion.co
-  url: https://QAMIPG.isolucion.co
-- name: Radiologosasociados.isolucion.co
-  url: https://Radiologosasociados.isolucion.co
-- name: RadiologosasociadosTest.isolucion.co
-  url: https://RadiologosasociadosTest.isolucion.co
-- name: Ramajudicial.isolucion.co 
-  url: https://Ramajudicial.isolucion.co
-- name: RamajudicialTest.isolucion.co
-  url: https://Ramajudicialtest.isolucion.co
-- name: REFINANCIATest.isolucion.co
-  url: https://REFINANCIATest.isolucion.co
-- name: roldan.isolucion.co
-  url: https://roldan.isolucion.co
-- name: RoldanTest.isolucion.co
-  url: https://RoldanTest.isolucion.co
-- name: saitugs.isolucion.co
-  url: https://saitugs.isolucion.co
-- name: saitugsTest.isolucion.co
-  url: https://saitugsTest.isolucion.co
-- name: SanGabrielCajica.isolucion.co
-  url: https://SanGabrielCajica.isolucion.co
-- name: santanadelnorte.isolucion.co
-  url: https://santanadelnorte.isolucion.co
-- name: SBLM.isolucion.co
-  url: https://SBLM.isolucion.co
-- name: SGC.isolucion.co
-  url: https://SGC.isolucion.co
-- name: SGCTest.isolucion.co
-  url: https://SGCTest.isolucion.co
-- name: SI18SAS.isolucion.co
-  url: https://SI18SAS.isolucion.co
-- name: SI18SASTest.isolucion.co
-  url: https://SI18SASTest.isolucion.co
-- name: sigo.icontec.org/IsolucionV4
-  url: https://sigo.icontec.org/IsolucionV4
-- name: SIMED.isolucion.co
-  url: https://SIMED.isolucion.co
-- name: Simex.isolucion.co
-  url: https://Simex.isolucion.co
-- name: SimexTest.isolucion.co
-  url: https://SimexTest.isolucion.co
-- name: sincromotors.isolucion.co
-  url: https://sincromotors.isolucion.co
-- name: silaba.isolucion.com
-  url: https://silaba.isolucion.com
-- name: silabaTest.isolucion.com
-  url: https://sincromotors.isolucion.co
-- name: Solobus.isolucion.co
-  url: https://Solobus.isolucion.co
-- name: SolobusTest.isolucion.co
-  url: https://SolobusTest.isolucion.co
-- name: STS.isolucion.co
-  url: https://STS.isolucion.co
-- name: sstbancodeoccidente.isolucion.co
-  url: https://sstbancodeoccidente.isolucion.co
-- name: Sulicor.isolucion.co
-  url: https://Sulicor.isolucion.co
-- name: SupermercadoIbanez.isolucion.co
-  url: https://SupermercadoIbanez.isolucion.co
-- name: sura.isolucion.co
-  url: https://sura.isolucion.co
-- name: suratest.isolucion.co
-  url: https://suratest.isolucion.co
-- name: SURTIZORA.isolucion.co
-  url: https://SURTIZORA.isolucion.co
-- name: SURTIZORATest.isolucion.co
-  url: https://SURTIZORATest.isolucion.co
-- name: SYSTEMGROUP.isolucion.co
-  url: https://SYSTEMGROUP.isolucion.co
-- name: SYSTEMGROUPTest.isolucion.co
-  url: https://SYSTEMGROUPTest.isolucion.co
-- name: syz.isolucion.co
-  url: https://syz.isolucion.co
-- name: syztest.isolucion.co
-  url: https://syztest.isolucion.co
-- name: TECNAS.isolucion.co
-  url: https://TECNAS.isolucion.co
-- name: TECNASTest.isolucion.co
-  url: https://TECNASTest.isolucion.co
-- name: tecnoalsa.isolucion.co
-  url: https://tecnoalsa.isolucion.co
-- name: tecnoalsaTest.isolucion.co
-  url: https://tecnoalsaTest.isolucion.co
-- name: testsstbancodeoccidente.isolucion.co
-  url: https://testsstbancodeoccidente.isolucion.co
-- name: TERRAGENE.isolucion.co
-  url: https://TERRAGENE.isolucion.co
-- name: TERRAGENETest.isolucion.co
-  url: https://TERRAGENETest.isolucion.co
-- name: TEXCOMERCIAL.isolucion.co
-  url: https://TEXCOMERCIAL.isolucion.co
-- name: TEXCOMERCIALTest.isolucion.co
-  url: https://TEXCOMERCIALTest.isolucion.co
-- name: tmsyp.isolucion.co
-  url: https://tmsyp.isolucion.co
-- name: TransportesAlex.isolucion.co
-  url: https://TransportesAlex.isolucion.co
-- name: Uam.isolucion.co
-  url: https://Uam.isolucion.co
-- name: UCEVA.isolucion.co
-  url: https://UCEVA.isolucion.co
-- name: UCEVATest.isolucion.co
-  url: https://UCEVATest.isolucion.co
-  name: uexternado.isolucion.co
-  url: https://uexternado.isolucion.co
-- name: uexternadoTest.isolucion.co
-  url: https://uexternadoTest.isolucion.co
-- name: UMedellin.isolucion.co
-  url: https://UMedellin.isolucion.co
-- name: UMedellinTest.isolucion.co
-  url: https://UMedellinTest.isolucion.co
-- name: UnidadBPD.isolucion.co
-  url: https://UnidadBPD.isolucion.co
-- name: UnidadBPDTest.isolucion.co
-  url: https://UnidadBPDTest.isolucion.co
-- name: UniversidadAmerica.isolucion.co
-  url: https://UniversidadAmerica.isolucion.co
-- name: UniversidadAmericaTest.isolucion.co
-  url: https://UniversidadAmericaTest.isolucion.co
-- name: Upedagogicanacional.isolucion.co
-  url: https://Upedagogicanacional.isolucion.co
-- name: UpedagogicanacionalTest.isolucion.co
-  url: https://UpedagogicanacionalTest.isolucion.co
-- name: USABarranquilla.isolucion.co
-  url: https://USABarranquilla.isolucion.co
-- name: USergioArboleda.isolucion.co
-  url: https://USergioArboleda.isolucion.co
-- name: VelezLab.isolucion.co
-  url: https://VelezLab.isolucion.co
-- name: VIHONCO.isolucion.co
-  url: https://VIHONCO.isolucion.co
-- name: VIHONCOTest.isolucion.co
-  url: https://VIHONCOTest.isolucion.co
-- name: VPCOM.isolucion.co
-  url: https://VPCOM.isolucion.co
-- name: ZALTSAS.isolucion.co
-  url: https://ZALTSAS.isolucion.co
-- name: ZALTSASTest.isolucion.co
-  url: https://ZALTSASTest.isolucion.co
-  
 
+- name: Adiquim.isolucion.co
+    url: https://Adiquim.isolucion.co
+	
+- name: Adn.isolucion.co
+    url: https://Adn.isolucion.co
+	
+- name: AgrocomercialCagir.isolucion.co
+	url: https://AgrocomercialCagir.isolucion.co
+
+- name: AIRTEMP.isolucion.co
+	url: https://AIRTEMP.isolucion.co
+	
+- name: ALBATEQ.isolucion.co
+	url: https://ALBATEQ.isolucion.co
+
+- name: AlcaldiaBarranquilla.isolucion.co
+	url: https://AlcaldiaBarranquilla.isolucion.co
+
+- name: AlcaldiaDeManizales.isolucion.co
+	url: https://AlcaldiaDeManizales.isolucion.co
+
+- name: AlcaldiaTocancipa.Isolucion.co
+	url: https://AlcaldiaTocancipa.Isolucion.co
+	
+- name: AlcCajica.isolucion.co
+	url: https://AlcCajica.isolucion.co
+
+- name: ALFANET.isolucion.co
+	url: https://ALFANET.isolucion.co
+
+- name: alianzatemporales.isolucion.co
+	url: https://alianzatemporales.isolucion.co
+
+- name: Alura.isolucion.co
+	url: https://Alura.isolucion.co
+
+- name: AMVSA.isolucion.co
+	url: https://AMVSA.isolucion.co
+
+- name: angiografia.isolucion.co
+	url: https://angiografia.isolucion.co
+
+- name: AON.isolucion.co
+	url: https://AON.isolucion.co
+
+- name: ApiIso01.isolucion.co
+	url: https://ApiIso01.isolucion.co
+
+- name: apiiso01com.isolucion.com
+	url: https://apiiso01com.isolucion.com
+
+- name: ApiIso02.isolucion.co
+	url: https://ApiIso02.isolucion.co
+
+- name: ApiIso03.isolucion.co
+	url: https://ApiIso03.isolucion.co
+
+- name: ApiIso04.isolucion.co
+	url: https://ApiIso04.isolucion.co
+
+- name: apiiso05.isolucion.co
+	url: https://apiiso05.isolucion.co
+
+- name: ApiIsoDtaConectorBancoOccidente.isolucion.co
+	url: https://ApiIsoDtaConectorBancoOccidente.isolucion.co
+
+- name: ApiIsoSura.isolucion.co
+	url: https://ApiIsoSura.isolucion.co
+
+- name: ApiRiesgosDafpApp01.isolucion.co
+	url: https://ApiRiesgosDafpApp01.isolucion.co
+
+- name: ApiRiesgosDafpApp01Com.isolucion.com
+	url: https://ApiRiesgosDafpApp01Com.isolucion.com
+
+- name: ApiRiesgosDafpApp02.isolucion.co
+	url: https://ApiRiesgosDafpApp02.isolucion.co
+	
+- name: ApiRiesgosDafpApp03.isolucion.co
+	url: https://ApiRiesgosDafpApp03.isolucion.co
+	
+- name: ApiRiesgosDafpApp04.isolucion.co
+	url: https://ApiRiesgosDafpApp04.isolucion.co
+	
+- name: ApiRiesgosDafpApp05.isolucion.co
+	url: https://ApiRiesgosDafpApp05.isolucion.co
+	
+- name: ApiRiesgosDafpAppBancoOccidente.isolucion.co
+	url: https://ApiRiesgosDafpAppBancoOccidente.isolucion.co
+	
+- name: ApiRiesgosDafpAppdane.isolucion.co
+	url: https://ApiRiesgosDafpAppdane.isolucion.co
+	
+- name: ApiRiesgosDafpAppIcontec.isolucion.co
+	url: https://ApiRiesgosDafpAppIcontec.isolucion.co
+	
+- name: ApiRiesgosDafpAppSura.isolucion.co
+	url: https://ApiRiesgosDafpAppSura.isolucion.co
+	
+- name: ApiSyncfusionApp01.isolucion.co
+	url: https://ApiSyncfusionApp01.isolucion.co
+	
+- name: ApiSyncfusionApp01Com.isolucion.com
+	url: https://ApiSyncfusionApp01Com.isolucion.com
+	
+- name: ApiSyncfusionApp02.isolucion.co
+	url: https://ApiSyncfusionApp02.isolucion.co
+	
+- name: ApiSyncfusionApp03.isolucion.co
+	url: https://ApiSyncfusionApp03.isolucion.co
+	
+- name: ApiSyncfusionApp04.isolucion.co
+	url: https://ApiSyncfusionApp04.isolucion.co
+	
+- name: ApiSyncfusionApp05.isolucion.co
+	url: https://ApiSyncfusionApp05.isolucion.co
+	
+- name: ApiSyncfusionAppBancoOccidente.isolucion.co
+	url: https://ApiSyncfusionAppBancoOccidente.isolucion.co
+	
+- name: ApiSyncfusionAppdane.isolucion.co
+	url: https://ApiSyncfusionAppdane.isolucion.co
+	
+- name: ApiSyncfusionAppIcontec.isolucion.co
+	url: https://ApiSyncfusionAppIcontec.isolucion.co
+
+- name: ApiSyncfusionAppIcontec.isolucion.co
+	url: https://ApiSyncfusionAppIcontec.isolucion.co
+
+- name: ApiSyncfusionAppSura.isolucion.co
+	url: https://ApiSyncfusionAppSura.isolucion.co
+	
+- name: Asobancaria.isolucion.co
+	url: https://Asobancaria.isolucion.co
+	
+- name: atinaenergy.isolucion.co
+	url: https://atinaenergy.isolucion.co
+	
+- name: AUDIFARMA.isolucion.co
+	url: https://AUDIFARMA.isolucion.co
+
+- name: BAGGRIT.isolucion.co
+	url: https://BAGGRIT.isolucion.co
+	
+- name: BAINCOL.isolucion.co
+	url: https://BAINCOL.isolucion.co
+	
+- name: BASC.isolucion.co
+	url: https://BASC.isolucion.co
+	
+- name: bgcol.isolucion.co
+	url: https://bgcol.isolucion.co
+	
+- name: Bimbo.isolucion.co
+	url: https://Bimbo.isolucion.co
+	
+- name: Biotronitech.isolucion.co
+	url: https://Biotronitech.isolucion.co
+	
+- name: Blaskov.Isolucion.co
+	url: https://Blaskov.Isolucion.co
+	
+- name: bmiseguros.isolucion.co
+	url: https://bmiseguros.isolucion.co
+	
+- name: bomberofloridablanca.isolucion.co
+	url: https://bomberofloridablanca.isolucion.co
+	
+- name: bonsetlatinamerica.isolucion.co
+	url: https://bonsetlatinamerica.isolucion.co
+	
+- name: BRASERV.isolucion.co
+	url: https://BRASERV.isolucion.co
+	
+- name: BUGORG.isolucion.co
+	url: https://BUGORG.isolucion.co
+	
+- name: Calima.isolucion.co
+	url: https://Calima.isolucion.co
+
+- name: Carex.isolucion.co
+	url: https://Carex.isolucion.co
+	
+- name: Cartama.isolucion.co
+	url: https://Cartama.isolucion.co
+
+- name: CelestinFreinet.isolucion.co
+	url: https://CelestinFreinet.isolucion.co
+	
+- name: CentralCervecera.isolucion.co
+	url: https://CentralCervecera.isolucion.co
+	
+- name: CentralCervecera.isolucion.co
+	url: https://CentralCervecera.isolucion.co
+	
+- name: centromayorcc.isolucion.co
+	url: https://centromayorcc.isolucion.co
+	
+- name: Cerescos.isolucion.co
+	url: https://Cerescos.isolucion.co
+	
+- name: Cesmag.isolucion.co
+	url: https://Cesmag.isolucion.co
+
+- name: CIFOODCOLOMBIA.isolucion.co
+	url: https://CIFOODCOLOMBIA.isolucion.co
+	
+- name: clcgas.isolucion.co
+	url: https://clcgas.isolucion.co
+
+- name: COBELEN.isolucion.co
+	url: https://COBELEN.isolucion.co
+	
+- name: COCESNA.isolucion.co
+	url: https://COCESNA.isolucion.co
+	
+- name: colegiobennett.isolucion.co
+	url: https://colegiobennett.isolucion.co
+
+- name: Colegiojesusmaria.isolucion.co
+	url: https://Colegiojesusmaria.isolucion.co
+
+- name: Colegionuevagranada.isolucion.co
+	url: https://Colegionuevagranada.isolucion.co
+
+- name: collectcenter.isolucion.co
+	url: https://collectcenter.isolucion.co
+
+- name: Combarranquilla.isolucion.co
+	url: https://Combarranquilla.isolucion.co
+
+- name: ComercialDemo.isolucion.co
+	url: https://ComercialDemo.isolucion.co
+
+- name: Comercializadora3c.isolucion.co
+	url: https://Comercializadora3c.isolucion.co
+
+- name: ComfamiliarRisaralda.isolucion.co
+	url: https://ComfamiliarRisaralda.isolucion.co
+
+- name: Comfandi.isolucion.co
+	url: https://Comfandi.isolucion.co
+
+- name: Consuerte.isolucion.co
+	url: https://Consuerte.isolucion.co
+
+- name: Contactar.isolucion.co
+	url: https://Contactar.isolucion.co
+	
+- name: COOPEDAC.isolucion.co
+	url: https://COOPEDAC.isolucion.co
+
+- name: coopminutodedios.isolucion.co
+	url: https://coopminutodedios.isolucion.co
+	
+- name: Cooptenjo.isolucion.co
+	url: https://Cooptenjo.isolucion.co
+
+- name: Coordinadora.isolucion.co
+	url: https://Coordinadora.isolucion.co
+
+- name: CorpAmericana.isolucion.co
+	url: https://CorpAmericana.isolucion.co
+	
+- name: CORSALUD.isolucion.co
+	url: https://CORSALUD.isolucion.co
+	
+- name: cruzrojaantioquia.isolucion.co
+	url: https://cruzrojaantioquia.isolucion.co
+
+- name: CYPDELR.isolucion.co
+	url: https://CYPDELR.isolucion.co
+	
+- name: dane.isolucion.co
+	url: https://dane.isolucion.co
+
+- name: deliveranceship.isolucion.co
+	url: https://deliveranceship.isolucion.co
+
+- name: DemoComercial.isolucion.com
+	url: https://DemoComercial.isolucion.com
+
+- name: Domotes.isolucion.co
+	url: https://Domotes.isolucion.co
+	
+- name: Drypers.isolucion.coo
+	url: https://Drypers.isolucion.co
+	
+- name: educacionfuturo.isolucion.co
+	url: https://educacionfuturo.isolucion.co
+
+- name: ElectroquimicaWest.isolucion.co
+	url: https://ElectroquimicaWest.isolucion.co
+	
+- name: ElRancherito.isolucion.co
+	url: https://ElRancherito.isolucion.co	
+
+- name: EmpaquetadosElTrece.isolucion.co
+	url: https://EmpaquetadosElTrece.isolucion.co
+
+- name: equinorte.isolucion.co
+	url: https://equinorte.isolucion.co	
+	
+- name: Eterna.isolucion.co
+	url: https://Eterna.isolucion.co
+
+- name: Fenalce.isolucion.co
+	url: https://Fenalce.isolucion.co
+	
+- name: Fiducentral.isolucion.co
+	url: https://Fiducentral.isolucion.co
+
+- name: FlagSoluciones.isolucion.co
+	url: https://FlagSoluciones.isolucion.co
+
+- name: Fogafin.isolucion.co
+	url: https://Fogafin.isolucion.co
+
+- name: FONTUR.isolucion.co
+	url: https://FONTUR.isolucion.co
+
+- name: fundacionbatuta.isolucion.co
+	url: https://fundacionbatuta.isolucion.co
+
+- name: Fundelima.isolucion.co
+	url: https://Fundelima.isolucion.co
+
+- name: Gabrica.isolucion.co
+	url: https://Gabrica.isolucion.co
+
+- name: GlobalOil.isolucion.co
+	url: https://GlobalOil.isolucion.co
+
+- name: GloriaColombia.isolucion.co
+	url: https://GloriaColombia.isolucion.co
+
+- name: goldenbusinessclass.isolucion.co
+	url: https://goldenbusinessclass.isolucion.co
+
+- name: griffithfoods.isolucion.co
+	url: https://griffithfoods.isolucion.co
+
+- name: Grupoafin.isolucion.co
+	url: https://Grupoafin.isolucion.co
+
+- name: GrupoAlfa.Isolucion.co
+	url: https://GrupoAlfa.Isolucion.co
+
+- name: grupoasd.isolucion.co
+	url: https://grupoasd.isolucion.co
+
+- name: GrupoGaleria.isolucion.com
+	url: https://GrupoGaleria.isolucion.com
+
+- name: grupohinode.isolucion.co
+	url: https://grupohinode.isolucion.co
+
+- name: gruposiderurgico.isolucion.co
+	url: https://gruposiderurgico.isolucion.co
+
+- name: Guarne.isolucion.co
+	url: https://Guarne.isolucion.co
+
+- name: gyjintegracion.isolucion.co
+	url: https://gyjintegracion.isolucion.co
+
+- name: Haceb.isolucion.co
+	url: https://Haceb.isolucion.co
+
+- name: harinerapardo.isolucion.co
+	url: https://harinerapardo.isolucion.co
+
+- name: Hermanasdominicas.isolucion.co
+	url: https://Hermanasdominicas.isolucion.co
+
+- name: hgingenieria.isolucion.co
+	url: https://hgingenieria.isolucion.co
+
+- name: iasociadas.isolucion.co
+	url: https://iasociadas.isolucion.co
+
+- name: ICCONSTRUCTORA.isolucion.co
+	url: https://ICCONSTRUCTORA.isolucion.co
+
+- name: ICCundinamarca.isolucion.co
+	url: https://ICCundinamarca.isolucion.co
+	
+- name: IMPRESISTEM.isolucion.co
+	url: https://IMPRESISTEM.isolucion.co
+	
+- name: imsa.isolucion.co
+	url: https://imsa.isolucion.co
+
+- name: Ingevias.isolucion.co
+	url: https://Ingevias.isolucion.co
+
+- name: INNINGGROUP.isolucion.co
+	url: https://INNINGGROUP.isolucion.co
+
+- name: IPFSAS.isolucion.co
+	url: https://IPFSAS.isolucion.co
+
+- name: ISIPLAST.isolucion.com
+	url: https://ISIPLAST.isolucion.com
+
+- name: Isolucion.Icontec.Org
+	url: https://Isolucion.Icontec.Org
+
+- name: itsinfocom.isolucion.co
+	url: https://itsinfocom.isolucion.co
+
+- name: jargu.isolucion.co
+	url: https://jargu.isolucion.co
+
+- name: KHIRON.isolucion.co
+	url: https://KHIRON.isolucion.co
+
+- name: KLISTO.isolucion.co
+	url: https://KLISTO.isolucion.co
+
+- name: Koneggui.isolucion.co
+	url: https://Koneggui.isolucion.co
+
+- name: KYROVET.isolucion.co
+	url: https://KYROVET.isolucion.co
+
+- name: labechavarria.isolucion.co
+	url: https://labechavarria.isolucion.co
+
+- name: labmedico.isolucion.co
+	url: https://labmedico.isolucion.co
+
+- name: LabQuimClinico.isolucion.co
+	url: https://LabQuimClinico.isolucion.co
+
+- name: Lafrancol.isolucion.co
+	url: https://Lafrancol.isolucion.co
+	
+- name: lameseta.isolucion.co
+	url: https://lameseta.isolucion.co
+	
+- name: Lasmisiones.isolucion.co
+	url: https://Lasmisiones.isolucion.co
+	
+- name: LATCALINSA.isolucion.co
+	url: https://LATCALINSA.isolucion.co
+
+- name: LCNIdiomas.isolucion.co
+	url: https://LCNIdiomas.isolucion.co
+	
+- name: letratiempo.isolucion.co
+	url: https://letratiempo.isolucion.co
+	
+- name: LHA.isolucion.co
+	url: https://LHA.isolucion.co
+	
+- name: Lhoist.isolucion.co
+	url: https://Lhoist.isolucion.co
+	
+- name: Lmedick.isolucion.co
+	url: https://Lmedick.isolucion.co
+
+- name: LUMLOGISTIC.isolucion.co
+	url: https://LUMLOGISTIC.isolucion.co
+
+- name: MACROTICS.isolucion.co
+	url: https://MACROTICS.isolucion.co
+
+- name: mercadosMadrid.isolucion.co
+	url: https://mercadosMadrid.isolucion.co
+
+- name: mesurametrologia.isolucion.co
+	url: https://mesurametrologia.isolucion.co
+	
+- name: molinosyopal.isolucion.co
+	url: https://molinosyopal.isolucion.co	
+
+- name: Motomecanica.isolucion.co
+	url: https://Motomecanica.isolucion.co	
+	
+- name: municipioconcordia.isolucion.co
+	url: https://municipioconcordia.isolucion.co
+
+- name: mymmanejo.isolucion.co
+	url: https://mymmanejo.isolucion.co
+
+- name: naturacert.isolucion.co
+	url: https://naturacert.isolucion.co
+
+- name: Novabase.isolucion.co
+	url: https://Novabase.isolucion.co
+
+- name: INPROQUIM.isolucion.co
+	url: https://INPROQUIM.isolucion.co
+
+- name: Nutreo.isolucion.co
+	url: https://Nutreo.isolucion.co
+
+- name: Nutrium.isolucion.co
+	url: https://Nutrium.isolucion.co
+	
+- name: OmegaEnergy.isolucion.co
+	url: https://OmegaEnergy.isolucion.co
+	
+- name: ONACORG.isolucion.co
+	url: https://ONACORG.isolucion.co
+	
+- name: ONELINK.isolucion.co
+	url: https://ONELINK.isolucion.co
+	
+- name: ONGCVIDESH.isolucion.co
+	url: https://ONGCVIDESH.isolucion.co
+	
+- name: Orientame.isolucion.co
+	url: https://Orientame.isolucion.co
+	
+- name: Orientame.isolucion.co
+	url: https://Orientame.isolucion.co
+
+- name: Ovosur.isolucion.co
+	url: https://Ovosur.isolucion.co
+
+- name: pagosgde.isolucion.co
+	url: https://pagosgde.isolucion.co
+
+- name: PISENDE.isolucion.co
+	url: https://PISENDE.isolucion.co
+
+- name: PLASTIPACK.isolucion.co
+	url: https://PLASTIPACK.isolucion.co
+
+- name: Prebel.isolucion.co
+	url: https://Prebel.isolucion.co
+		
+- name: Premex.isolucion.co
+	url: https://Premex.isolucion.co
+	
+- name: Primax.isolucion.co
+	url: https://Primax.isolucion.co
+
+- name: Profamilia.isolucion.co
+	url: https://Profamilia.isolucion.co
+
+- name: puertodebarranquilla.isolucion.co
+	url: https://puertodebarranquilla.isolucion.co
+	
+- name: qa.isolucion.co
+	url: https://qa.isolucion.co
+	
+- name: Radiologosasociados.isolucion.co
+	url: https://Radiologosasociados.isolucion.co
+
+- name: ramajudicial.isolucion.co
+	url: https://ramajudicial.isolucion.co
+	
+- name: roldan.isolucion.co
+	url: https://roldan.isolucion.co
+	
+- name: saitugs.isolucion.co
+	url: https://saitugs.isolucion.co
+
+- name: SanGabrielCajica.isolucion.co
+	url: https://SanGabrielCajica.isolucion.co
+	
+- name: SBLM.isolucion.co
+	url: https://SBLM.isolucion.co
+	
+- name: SGC.isolucion.co
+	url: https://SGC.isolucion.co
+
+- name: SI18SAS.isolucion.co
+	url: https://SI18SAS.isolucion.co
+
+- name: sigo.icontec.org/isolucionv4
+	url: https://sigo.icontec.org/isolucionv4
+	
+	
+- name: silaba.isolucion.com
+	url: https://silaba.isolucion.com
+
+- name: SIMED.isolucion.co
+	url: https://SIMED.isolucion.co
+
+- name: Simex.isolucion.co
+	url: https://Simex.isolucion.co
+
+- name: sincromotors.isolucion.co
+	url: https://sincromotors.isolucion.co
+	
+- name: Solobus.isolucion.co
+	url: https://Solobus.isolucion.co
+	
+- name: sstbancodeoccidente.isolucion.co
+	url: https://sstbancodeoccidente.isolucion.co
+	
+- name: STS.isolucion.co
+	url: https://STS.isolucion.co
+
+- name: Sulicor.isolucion.co
+	url: https://Sulicor.isolucion.co
+
+- name: SupermercadoIbanez.isolucion.co
+	url: https://SupermercadoIbanez.isolucion.co
+
+- name: Sura.isolucion.co
+	url: https://Sura.isolucion.co
+
+- name: SURTIZORA.isolucion.co
+	url: https://SURTIZORA.isolucion.co
+	
+- name: SYSTEMGROUP.isolucion.co
+	url: https://SYSTEMGROUP.isolucion.co
+	
+- name: syz.isolucion.co
+	url: https://syz.isolucion.co
+	
+- name: TECNAS.isolucion.co
+	url: https://TECNAS.isolucion.co
+		
+- name: tecnoalsa.isolucion.co
+	url: https://tecnoalsa.isolucion.co
+
+- name: TERRAGENE.isolucion.co
+	url: https://TERRAGENE.isolucion.co
+
+- name: TEXCOMERCIAL.isolucion.co
+	url: https://TEXCOMERCIAL.isolucion.co
+
+- name: tmsyp.isolucion.co
+	url: https://tmsyp.isolucion.co
+	
+- name: TransportesAlex.isolucion.co
+	url: https://TransportesAlex.isolucion.co
+
+- name: Uam.isolucion.co
+	url: https://Uam.isolucion.co
+	
+- name: UCEVA.isolucion.co
+	url: https://UCEVA.isolucion.co
+	
+- name: uexternado.isolucion.co
+	url: https://uexternado.isolucion.co
+
+- name: UMedellin.isolucion.co
+	url: https://UMedellin.isolucion.co
+
+- name: UnidadBPD.isolucion.co
+	url: https://UnidadBPD.isolucion.co
+
+- name: UniversidadAmerica.isolucion.co
+	url: https://UniversidadAmerica.isolucion.co
+
+- name: Upedagogicanacional.isolucion.co
+	url: https://Upedagogicanacional.isolucion.co
+
+- name: USABarranquilla.isolucion.co
+	url: https://USABarranquilla.isolucion.co
+
+- name: USergioArboleda.isolucion.co
+	url: https://USergioArboleda.isolucion.co
+
+- name: VelezLab.isolucion.co
+	url: https://VelezLab.isolucion.co
+
+- name: VIHONCO.isolucion.co
+	url: https://VIHONCO.isolucion.co
+
+- name: VPCOM.isolucion.co
+	url: https://VPCOM.isolucion.co
+
+- name: ZALTSAS.isolucion.co
+	url: https://ZALTSAS.isolucion.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

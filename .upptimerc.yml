@@ -136,6 +136,9 @@ sites:
 - name: ApiSyncfusionAppSura.isolucion.co
 	url: https://ApiSyncfusionAppSura.isolucion.co
 	
+- name: Aserfinc.isolucion.co
+	url: https://Aserfinc.isolucion.co
+
 - name: Asobancaria.isolucion.co
 	url: https://Asobancaria.isolucion.co
 	
@@ -234,6 +237,9 @@ sites:
 
 - name: Combarranquilla.isolucion.co
 	url: https://Combarranquilla.isolucion.co
+	
+- name: comdatagroup.isolucion.co
+	url: https://comdatagroup.isolucion.co
 
 - name: ComercialDemo.isolucion.co
 	url: https://ComercialDemo.isolucion.co
@@ -298,8 +304,11 @@ sites:
 - name: ElectroquimicaWest.isolucion.co
 	url: https://ElectroquimicaWest.isolucion.co
 	
-- name: ElRancherito.isolucion.co
-	url: https://ElRancherito.isolucion.co	
+- name: emcocables.isolucion.co
+	url: https://emcocables.isolucion.co
+
+- name: EmpaquetadosElTrece.isolucion.co
+	url: https://EmpaquetadosElTrece.isolucion.co
 
 - name: EmpaquetadosElTrece.isolucion.co
 	url: https://EmpaquetadosElTrece.isolucion.co
@@ -676,7 +685,8 @@ sites:
 
 - name: ZALTSAS.isolucion.co
 	url: https://ZALTSAS.isolucion.co
-
+	
+	
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

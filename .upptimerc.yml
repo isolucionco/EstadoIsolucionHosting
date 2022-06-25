@@ -4,9 +4,9 @@ repo: EstadoIsolucionHosting # The name of this repository
 
 sites:
 
- - name: Adiquim.isolucion.co
+- name: Adiquim.isolucion.co
     url: https://Adiquim.isolucion.co
-       
+      
   - name: Adn.isolucion.co
     url: https://Adn.isolucion.co
        

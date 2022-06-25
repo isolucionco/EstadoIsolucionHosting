@@ -7,6 +7,8 @@ sites:
 
 - name: WebSiteIsolucion
   url: https://isolucion.com
+  - name: IsolucionProcesos
+  url: http://23.102.174.233/IsolucionProcesos/
 - name: Adiquim.isolucion.co
   url: https://Adiquim.isolucion.co
 - name: Adn.isolucion.co

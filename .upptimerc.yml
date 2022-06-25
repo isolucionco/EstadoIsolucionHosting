@@ -5,13 +5,11 @@ repo: EstadoIsolucionHosting # The name of this repository
 sites:
 
 - name: Adiquim.isolucion.co
-url: https://Adiquim.isolucion.co
-
+  url: https://Adiquim.isolucion.co
 - name: Adn.isolucion.co
-url: https://Adn.isolucion.co
-
+  url: https://Adn.isolucion.co
 - name: AgrocomercialCagir.isolucion.co
-url: https://AgrocomercialCagir.isolucion.co
+  url: https://AgrocomercialCagir.isolucion.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

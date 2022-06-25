@@ -6,19 +6,14 @@ sites:
 
 - name: Adiquim.isolucion.co
     url: https://Adiquim.isolucion.co
-	
 - name: Adn.isolucion.co
     url: https://Adn.isolucion.co
-	
 - name: AgrocomercialCagir.isolucion.co
 	url: https://AgrocomercialCagir.isolucion.co
-
 - name: AIRTEMP.isolucion.co
 	url: https://AIRTEMP.isolucion.co
-	
 - name: ALBATEQ.isolucion.co
 	url: https://ALBATEQ.isolucion.co
-
 - name: AlcaldiaBarranquilla.isolucion.co
 	url: https://AlcaldiaBarranquilla.isolucion.co
 

@@ -210,7 +210,7 @@ sites:
   url: https://EmpaquetadosElTrece.isolucion.co
 - name: EmpaquetadosElTrece.isolucion.co
   url: https://EmpaquetadosElTrece.isolucion.co
--name: equinorte.isolucion.co
+- name: equinorte.isolucion.co
   url: https://equinorte.isolucion.co       
 - name: Eterna.isolucion.co
   url: https://Eterna.isolucion.co

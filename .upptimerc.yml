@@ -51,47 +51,25 @@ sites:
 - name: ApiIsoSura.isolucion.co
   url: https://ApiIsoSura.isolucion.co
 - name: ApiRiesgosDafpApp01.isolucion.co
-  url: https://ApiRiesgosDafpApp01.isolucion.co
+  url: https://ApiRiesgosDafpApp01.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpApp01Com.isolucion.com
-  url: https://ApiRiesgosDafpApp01Com.isolucion.com
+  url: https://ApiRiesgosDafpApp01Com.isolucion.com/swagger/index.html
 - name: ApiRiesgosDafpApp02.isolucion.co
-  url: https://ApiRiesgosDafpApp02.isolucion.co
+  url: https://ApiRiesgosDafpApp02.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpApp03.isolucion.co
-  url: https://ApiRiesgosDafpApp03.isolucion.co
+  url: https://ApiRiesgosDafpApp03.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpApp04.isolucion.co
-  url: https://ApiRiesgosDafpApp04.isolucion.co
+  url: https://ApiRiesgosDafpApp04.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpApp05.isolucion.co
-  url: https://ApiRiesgosDafpApp05.isolucion.co
+  url: https://ApiRiesgosDafpApp05.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppBancoOccidente.isolucion.co
-  url: https://ApiRiesgosDafpAppBancoOccidente.isolucion.co
+  url: https://ApiRiesgosDafpAppBancoOccidente.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppdane.isolucion.co
-  url: https://ApiRiesgosDafpAppdane.isolucion.co
+  url: https://ApiRiesgosDafpAppdane.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppIcontec.isolucion.co
-  url: https://ApiRiesgosDafpAppIcontec.isolucion.co
+  url: https://ApiRiesgosDafpAppIcontec.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppSura.isolucion.co
-  url: https://ApiRiesgosDafpAppSura.isolucion.co
-- name: ApiSyncfusionApp01.isolucion.co
-  url: https://ApiSyncfusionApp01.isolucion.co
-- name: ApiSyncfusionApp01Com.isolucion.com
-  url: https://ApiSyncfusionApp01Com.isolucion.com
-- name: ApiSyncfusionApp02.isolucion.co
-  url: https://ApiSyncfusionApp02.isolucion.co
-- name: ApiSyncfusionApp03.isolucion.co
-  url: https://ApiSyncfusionApp03.isolucion.co
-- name: ApiSyncfusionApp04.isolucion.co
-  url: https://ApiSyncfusionApp04.isolucion.co
-- name: ApiSyncfusionApp05.isolucion.co
-  url: https://ApiSyncfusionApp05.isolucion.co
-- name: ApiSyncfusionAppBancoOccidente.isolucion.co
-  url: https://ApiSyncfusionAppBancoOccidente.isolucion.co
-- name: ApiSyncfusionAppdane.isolucion.co
-  url: https://ApiSyncfusionAppdane.isolucion.co
-- name: ApiSyncfusionAppIcontec.isolucion.co
-  url: https://ApiSyncfusionAppIcontec.isolucion.co
-- name: ApiSyncfusionAppIcontec.isolucion.co
-  url: https://ApiSyncfusionAppIcontec.isolucion.co
-- name: ApiSyncfusionAppSura.isolucion.co
-  url: https://ApiSyncfusionAppSura.isolucion.co
+  url: https://ApiRiesgosDafpAppSura.isolucion.co/swagger/index.html
 - name: Aserfinc.isolucion.co
   url: https://Aserfinc.isolucion.co
 - name: Asobancaria.isolucion.co
@@ -162,8 +140,6 @@ sites:
   url: https://Combarranquilla.isolucion.co
 - name: comdatagroup.isolucion.co
   url: https://comdatagroup.isolucion.co
-- name: ComercialDemo.isolucion.co
-  url: https://ComercialDemo.isolucion.co
 - name: Comercializadora3c.isolucion.co
   url: https://Comercializadora3c.isolucion.co
 - name: ComfamiliarRisaralda.isolucion.co
@@ -220,8 +196,6 @@ sites:
   url: https://Fiducentral.isolucion.co
 - name: FlagSoluciones.isolucion.co
   url: https://FlagSoluciones.isolucion.co
-- name: Fogafin.isolucion.co
-  url: https://Fogafin.isolucion.co
 - name: FONTUR.isolucion.co
   url: https://FONTUR.isolucion.co
 - name: fundacionbatuta.isolucion.co
@@ -404,8 +378,6 @@ sites:
   url: https://sincromotors.isolucion.co
 - name: Solobus.isolucion.co
   url: https://Solobus.isolucion.co
-- name: sstbancodeoccidente.isolucion.co
-  url: https://sstbancodeoccidente.isolucion.co
 - name: STS.isolucion.co
   url: https://STS.isolucion.co
 - name: Sulicor.isolucion.co

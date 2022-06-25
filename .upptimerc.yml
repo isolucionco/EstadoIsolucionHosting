@@ -70,7 +70,7 @@ sites:
   url: https://ApiRiesgosDafpAppIcontec.isolucion.co
 - name: ApiRiesgosDafpAppSura.isolucion.co
   url: https://ApiRiesgosDafpAppSura.isolucion.co
-  - name: ApiSyncfusionApp01.isolucion.co
+- name: ApiSyncfusionApp01.isolucion.co
   url: https://ApiSyncfusionApp01.isolucion.co
 - name: ApiSyncfusionApp01Com.isolucion.com
   url: https://ApiSyncfusionApp01Com.isolucion.com

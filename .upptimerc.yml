@@ -46,8 +46,6 @@ sites:
   url: https://ApiIso04.isolucion.co
 - name: apiiso05.isolucion.co
   url: https://apiiso05.isolucion.co
-- name: ApiIsoDtaConectorBancoOccidente.isolucion.co
-  url: https://ApiIsoDtaConectorBancoOccidente.isolucion.co
 - name: ApiIsoSura.isolucion.co
   url: https://ApiIsoSura.isolucion.co
 - name: ApiRiesgosDafpApp01.isolucion.co
@@ -62,12 +60,10 @@ sites:
   url: https://ApiRiesgosDafpApp04.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpApp05.isolucion.co
   url: https://ApiRiesgosDafpApp05.isolucion.co/swagger/index.html
-- name: ApiRiesgosDafpAppBancoOccidente.isolucion.co
-  url: https://ApiRiesgosDafpAppBancoOccidente.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppdane.isolucion.co
   url: https://ApiRiesgosDafpAppdane.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppIcontec.isolucion.co
-  url: https://ApiRiesgosDafpAppIcontec.isolucion.co/swagger/index.html
+  url: http://apiriesgosdafpappicontec.isolucion.co/swagger/index.html
 - name: ApiRiesgosDafpAppSura.isolucion.co
   url: https://ApiRiesgosDafpAppSura.isolucion.co/swagger/index.html
 - name: Aserfinc.isolucion.co
@@ -437,8 +433,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /EstadoIsolucionHosting
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
- #name: Upptime
+ logoUrl: https://isolucion.com/wp-content/uploads/2021/05/isolucion25.png
+ name: Estado Hosting ISOLUCION
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:

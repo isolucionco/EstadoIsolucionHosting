@@ -588,7 +588,7 @@ sites:
 
   - name: sigo.icontec.org/isolucionv4
        url: https://sigo.icontec.org/isolucionv4
-       
+  
        
   - name: silaba.isolucion.com
        url: https://silaba.isolucion.com
@@ -685,9 +685,7 @@ sites:
 
   - name: ZALTSAS.isolucion.co
        url: https://ZALTSAS.isolucion.co
-    
-    
-    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -4,8 +4,6 @@ repo: EstadoIsolucionHosting # The name of this repository
 
 sites:
 
-- name: WebSiteIsolucion
-  url: https://isolucion.com
 - name: IsolucionProcesos
   url: http://23.102.174.233/IsolucionProcesos/
 - name: Adiquim.isolucion.co
@@ -436,12 +434,12 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-   baseUrl: /EstadoHosting
-   logoUrl: https://isolucion.com/wp-content/uploads/2021/05/isolucion25.png
-   name: Estado Hosting ISOLUCION
-   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-   navbar:
+  # baseUrl: /EstadoIsolucionHosting
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime Isolucion
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
     - title: Status
       href: /
     - title: GitHub

@@ -1,7 +1,7 @@
 url: https://qa.isolucion.co
-status: down
-code: 503
-responseTime: 161
-lastUpdated: 2022-07-22T14:35:57.711Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2022-07-22T14:45:40.026Z
 startTime: Sat Jun 25 2022 04:11:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

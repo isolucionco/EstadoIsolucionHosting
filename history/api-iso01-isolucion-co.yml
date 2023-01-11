@@ -1,7 +1,7 @@
 url: https://ApiIso01.isolucion.co
-status: up
-code: 200
-responseTime: 65
-lastUpdated: 2023-01-10T23:04:28.263Z
+status: down
+code: 500
+responseTime: 6023
+lastUpdated: 2023-01-11T04:48:07.232Z
 startTime: Sat Jun 25 2022 04:04:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

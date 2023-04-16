@@ -1,7 +1,7 @@
 url: https://ramajudicial.isolucion.co
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2023-04-15T23:05:43.150Z
+status: down
+code: 500
+responseTime: 329
+lastUpdated: 2023-04-16T07:42:05.608Z
 startTime: Sat Jun 25 2022 04:11:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

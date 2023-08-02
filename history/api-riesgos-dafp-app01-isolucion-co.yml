@@ -1,7 +1,7 @@
 url: https://ApiRiesgosDafpApp01.isolucion.co/swagger/index.html
-status: up
-code: 200
-responseTime: 126
-lastUpdated: 2023-08-01T23:03:24.648Z
+status: down
+code: 503
+responseTime: 125
+lastUpdated: 2023-08-02T17:13:58.460Z
 startTime: Sat Jun 25 2022 04:05:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

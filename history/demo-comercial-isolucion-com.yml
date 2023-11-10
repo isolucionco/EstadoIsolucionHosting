@@ -1,7 +1,7 @@
 url: https://DemoComercial.isolucion.com
-status: up
-code: 200
-responseTime: 360
-lastUpdated: 2023-11-10T13:24:59.421Z
+status: down
+code: 503
+responseTime: 260
+lastUpdated: 2023-11-10T14:34:22.831Z
 startTime: 2022-06-25T04:09:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>

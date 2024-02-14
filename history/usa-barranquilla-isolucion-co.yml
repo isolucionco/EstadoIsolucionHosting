@@ -1,7 +1,7 @@
 url: https://USABarranquilla.isolucion.co
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2024-02-13T23:05:02.522Z
+status: down
+code: 500
+responseTime: 1305
+lastUpdated: 2024-02-14T01:43:46.559Z
 startTime: 2022-06-25T04:40:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>

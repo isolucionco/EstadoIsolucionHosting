@@ -1,7 +1,7 @@
 url: https://labmedico.isolucion.co
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2024-02-13T23:04:19.200Z
+status: down
+code: 500
+responseTime: 1021
+lastUpdated: 2024-02-14T01:39:57.149Z
 startTime: 2022-06-25T04:10:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>

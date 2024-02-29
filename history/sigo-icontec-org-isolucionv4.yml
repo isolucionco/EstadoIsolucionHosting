@@ -1,7 +1,7 @@
 url: https://sigo.icontec.org/isolucionv4
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2024-02-28T23:05:57.048Z
+status: down
+code: 500
+responseTime: 1777
+lastUpdated: 2024-02-29T18:08:52.411Z
 startTime: 2022-06-25T04:18:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
